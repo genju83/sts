@@ -1,0 +1,1170 @@
+[
+  {
+    "key": "bash",
+    "korName": "강타",
+    "engName": "Bash",
+    "rarity": "common",
+    "type": "attack",
+    "normal": {
+      "effect": "피해를 8 줍니다. 취약을 2 부여합니다.",
+      "cost": "2"
+    },
+    "reinforced": {
+      "effect": "피해를 10 줍니다. 취약을 3 부여합니다.",
+      "cost": "2"
+    },
+    "desc": "아이언클래드의 기본 카드. 강화하면 취약이 1턴 늘어나서 딜누적이 쉬워진다. 별도로 취약을 걸어줄 카드가 안 잡힌다면 강화할만하다."
+  },
+  {
+    "key": "clash",
+    "korName": "격돌",
+    "engName": "Clash",
+    "rarity": "common",
+    "type": "attack",
+    "normal": {
+      "effect": "손에 있는 카드가 전부 공격 카드일 때만 사용할 수 있습니다. 피해를 14 줍니다.",
+      "cost": "0"
+    },
+    "reinforced": {
+      "effect": "손에 있는 카드가 전부 공격 카드일 때만 사용할 수 있습니다. 피해를 18 줍니다.",
+      "cost": "0"
+    },
+    "desc": "0코스트인데 화력은 아주 강력하다. 1층 엘리트를 잡는데 매우 유용한 카드. 사용 조건상 중후반부엔 사용하기 어려워지지만 초반 덱 파워로 스노우볼을 굴려서 얻을 이득을 생각하면 사용을 충분히 고려해볼만한 카드다. 영혼 절단, 기사회생 등의 소멸 카드와 함께 사용시 딜의 포텐셜이 매우 높아진다."
+  },
+  {
+    "key": "wild-strike",
+    "korName": "난폭한 타격",
+    "engName": "Wild Strike",
+    "rarity": "common",
+    "type": "attack",
+    "normal": {
+      "effect": "피해를 12 줍니다. 뽑을 카드 더미에 부상 카드를 섞어 넣습니다.",
+      "cost": "1"
+    },
+    "reinforced": {
+      "effect": "피해를 17 줍니다. 뽑을 카드 더미에 부상 카드를 섞어 넣습니다.",
+      "cost": "1"
+    },
+    "desc": "진화를 기반으로 한 부상 전사 컨셉덱에 유용한 카드. 하지만 부상 전사가 아니라면 넘쳐나는 부상으로 드로우를 말리게 하니 거의 쓰지 않는다."
+  },
+  {
+    "key": "heavy-blade",
+    "korName": "대검",
+    "engName": "Heavy Blade",
+    "rarity": "common",
+    "type": "attack",
+    "normal": {
+      "effect": "피해를 14 줍니다. 힘의 효과가 3배로 적용됩니다.",
+      "cost": "2"
+    },
+    "reinforced": {
+      "effect": "피해를 14 줍니다. 힘의 효과가 5배로 적용됩니다.",
+      "cost": "2"
+    },
+    "desc": "힘을 3/5배로 적용받는 점에서 힘전사에서 좋은 편이지만 힘을 늘릴 수단이 적다면 애매하다. 다행인 점은 힘카드가 대부분 무난히 좋은 성능이라는 것."
+  },
+  {
+    "key": "body-slam",
+    "korName": "몸통 박치기",
+    "engName": "Body Slam",
+    "rarity": "common",
+    "type": "attack",
+    "normal": {
+      "effect": "현재 방어도만큼의 피해를 줍니다.",
+      "cost": "1"
+    },
+    "reinforced": {
+      "effect": "현재 방어도만큼의 피해를 줍니다.",
+      "cost": "0"
+    },
+    "desc": "방밀 전사의 주력 딜 카드. 방어도를 막대하게 늘려놓으면 마찬가지로 막대한 데미지를 줄수있다. 강화하면 비용이 0인 덕분에 강화된 몸통 박치기는 무난하게 집을만하다."
+  },
+  {
+    "key": "headbutt",
+    "korName": "박치기",
+    "engName": "Headbutt",
+    "rarity": "common",
+    "type": "attack",
+    "normal": {
+      "effect": "피해를 9 줍니다. 버린 카드 더미에서 카드를 1장 선택해 뽑을 카드 더미 맨 위에 놓습니다.",
+      "cost": "1"
+    },
+    "reinforced": {
+      "effect": "피해를 12 줍니다. 버린 카드 더미에서 카드를 1장 선택해 뽑을 카드 더미 맨 위에 놓습니다.",
+      "cost": "1"
+    },
+    "desc": "드로우카드와 연계해서 한 턴에 같은 카드를 2번 쓰거나, 꼭 이번 턴이 아니더라도 다음 턴 설계를 도울 수 있는 유용한 카드."
+  },
+  {
+    "key": "sword-boomerang",
+    "korName": "부메랑 칼날",
+    "engName": "Sword Boomerang",
+    "rarity": "common",
+    "type": "attack",
+    "normal": {
+      "effect": "무작위 적들에게 피해를 3만큼 3번 줍니다.",
+      "cost": "1"
+    },
+    "reinforced": {
+      "effect": "무작위 적들에게 피해를 3만큼 4번 줍니다.",
+      "cost": "1"
+    },
+    "desc": "다수의 적보단 1대 1에서 효율이 좋은 카드. 다회 공격이라 힘 전사가 대검과 비슷한 용도로 쓸 수 있다."
+  },
+  {
+    "key": "anger",
+    "korName": "분노",
+    "engName": "Anger",
+    "rarity": "common",
+    "type": "attack",
+    "normal": {
+      "effect": "피해를 6 줍니다. 이 카드를 1장 복사해 버린 카드 더미에 섞어 넣습니다.",
+      "cost": "0"
+    },
+    "reinforced": {
+      "effect": "피해를 8 줍니다. 이 카드를 1장 복사해 버린 카드 더미에 섞어 넣습니다.",
+      "cost": "0"
+    },
+    "desc": "사용할수록 증식하는 특성상 덱 압축에 차질을 빚는 카드. 비용이 0인 카드들 중 격돌이라는 강력한 경쟁자가 있어서 묻히는 감이 있다. 다만 멈추지 않는 팽이를 가지고 있다면 엄청난 카드가 될 수도 있다."
+  },
+  {
+    "key": "perfected-strike",
+    "korName": "완벽한 타격",
+    "engName": "Perfected Strike",
+    "rarity": "common",
+    "type": "attack",
+    "normal": {
+      "effect": "피해를 6 줍니다. 덱에 있는 이름에 \"타격\"이 붙은 카드 하나당 피해량이 2 증가합니다.",
+      "cost": "2"
+    },
+    "reinforced": {
+      "effect": "피해를 6 줍니다. 덱에 있는 이름에 \"타격\"이 붙은 카드 하나당 피해량이 3 증가합니다.",
+      "cost": "2"
+    },
+    "desc": "타격 전사의 키 카드. 타격 전사 덱을 만드는 중이 아니더라도 초반 덱 압축이 진행되기 전에 뽑아서 중후반으로 편하게 넘어가기 위한 용도로 집는 경우도 있다. 참고로 이 카드 자체도 타격 1장으로 친다. 타격 5장만 있는 상태에서 집어도 피해량 18(24)로, 비용 대비 피해량이 무난하고 포텐셜이 꽤 크기 때문에 좋은 카드. 단점은 타격 카드를 덱에서 제거하기 난감해진다는 것으로, 도시 이벤트 중 모든 타격과 수비를 강화하는 이벤트를 만나면 게임이 엄청나게 유리해진다."
+  },
+  {
+    "key": "twin-strike",
+    "korName": "이중 타격",
+    "engName": "Twin Strike",
+    "rarity": "common",
+    "type": "attack",
+    "normal": {
+      "effect": "피해를 5만큼 2번 줍니다.",
+      "cost": "1"
+    },
+    "reinforced": {
+      "effect": "피해를 7만큼 2번 줍니다.",
+      "cost": "1"
+    },
+    "desc": "후반으로 갈수록 성능이 애매해지지만 완벽한 타격 위주의 덱에서 채용하기도 한다. 힘을 두 번 적용받기 때문에 힘전사에서도 초중반을 무난하게 넘기기 위해서 종종 집는 편."
+  },
+  {
+    "key": "cleave",
+    "korName": "절단",
+    "engName": "Cleave",
+    "rarity": "common",
+    "type": "attack",
+    "normal": {
+      "effect": "적 전체에게 피해를 8 줍니다.",
+      "cost": "1"
+    },
+    "reinforced": {
+      "effect": "적 전체에게 피해를 11 줍니다.",
+      "cost": "1"
+    },
+    "desc": "광역 데미지를 넣는 카드. 단, 후반으로 가면 갈수록 한계가 명확하다. 힘을 올릴 수단이 충분하고 광역기를 채용하고 싶다면 아쉬운 대로 소용돌이 대신 써 볼 수는 있다."
+  },
+  {
+    "key": "thunderclap",
+    "korName": "천둥",
+    "engName": "Thunderclap",
+    "rarity": "common",
+    "type": "attack",
+    "normal": {
+      "effect": "적 전체에게 피해를 4 주고 취약 1을 부여합니다.",
+      "cost": "1"
+    },
+    "reinforced": {
+      "effect": "적 전체에게 피해를 7 주고 취약 1을 부여합니다.",
+      "cost": "1"
+    },
+    "desc": "강타와 비교해서 코스트가 낮아서 연계가 쉽고, 모든 적 대상이므로 인공물 제거에도 유용하지만 강화해도 취약이 1턴만 적용되는것은 단점. 사신이나 소용돌이와 같은 추가 광역기와 조합이 절륜하다."
+  },
+  {
+    "key": "iron-wave",
+    "korName": "철의 파동",
+    "engName": "Iron Wave",
+    "rarity": "common",
+    "type": "attack",
+    "normal": {
+      "effect": "방어도를 5 얻습니다. 피해를 5 줍니다.",
+      "cost": "1"
+    },
+    "reinforced": {
+      "effect": "방어도를 7 얻습니다. 피해를 7 줍니다.",
+      "cost": "1"
+    },
+    "desc": "코스트 대비 좋은 편이고 초반에는 탁월한 성능을 내지만 초반을 넘긴 뒤에는 어중간하다."
+  },
+  {
+    "key": "clothesline",
+    "korName": "클로스라인",
+    "engName": "Clothesline",
+    "rarity": "common",
+    "type": "attack",
+    "normal": {
+      "effect": "피해를 12 줍니다. 약화를 2 부여합니다.",
+      "cost": "2"
+    },
+    "reinforced": {
+      "effect": "피해를 14 줍니다. 약화를 3 부여합니다.",
+      "cost": "2"
+    },
+    "desc": "약화를 부여하는 카드가 비교적 적은 아이언클래드가 유용하게 쓸 수 있는 카드."
+  },
+  {
+    "key": "pommel-strike",
+    "korName": "폼멜 타격",
+    "engName": "Pommel Strike",
+    "rarity": "common",
+    "type": "attack",
+    "normal": {
+      "effect": "피해를 9 줍니다. 카드를 1장 뽑습니다.",
+      "cost": "1"
+    },
+    "reinforced": {
+      "effect": "피해를 10 줍니다. 카드를 2장 뽑습니다.",
+      "cost": "1"
+    },
+    "desc": "드로우 수단이 부족한 전사에게 유용한 카드. 강화하면 두 장이나 뽑는다. 유물을 통해 매 턴 얻는 에너지의 양을 늘렸다면 더욱 빛을 발한다."
+  },
+  {
+    "key": "rampage",
+    "korName": "광란",
+    "engName": "Rampage",
+    "rarity": "uncommon",
+    "type": "attack",
+    "normal": {
+      "effect": "피해를 8 줍니다. 이 카드를 사용할 때마다 이번 전투 동안 이 카드의 피해량이 5 증가합니다.",
+      "cost": "1"
+    },
+    "reinforced": {
+      "effect": "피해를 8 줍니다. 이 카드를 사용할 때마다 이번 전투 동안 이 카드의 피해량이 8 증가합니다.",
+      "cost": "1"
+    },
+    "desc": "주력으로 쓰려면 덱 압축이나 소멸이 필수. 박치기와의 연계를 통해 데미지를 빠르게 증가시킬 수 있다. 기본 피해량에 증가한 피해량을 다 더한 다음 취약/약화 등의 상태이상을 보정한다."
+  },
+  {
+    "key": "carnage",
+    "korName": "대학살",
+    "engName": "Carnage",
+    "rarity": "uncommon",
+    "type": "attack",
+    "normal": {
+      "effect": "휘발성. 피해를 20 줍니다.",
+      "cost": "2"
+    },
+    "reinforced": {
+      "effect": "휘발성. 피해를 28 줍니다.",
+      "cost": "2"
+    },
+    "desc": "데미지는 나쁘지 않지만 같은 비용의 다른 카드들과 비교해서 효율이 떨어지는 편. 주력으로는 못쓰는 카드이지만 휘발성이라는 점은 후반에 쓸모가 없을때 알아서 덱을 압축해주는 장점이 되기도 하다보니 제한적으로 쓰임새가 존재한다."
+  },
+  {
+    "key": "dropkick",
+    "korName": "드롭킥",
+    "engName": "Dropkick",
+    "rarity": "uncommon",
+    "type": "attack",
+    "normal": {
+      "effect": "피해를 5 줍니다. 적이 취약 상태라면 에너지를 1 얻고 카드를 1장 뽑습니다.",
+      "cost": "1"
+    },
+    "reinforced": {
+      "effect": "피해를 8 줍니다. 적이 취약 상태라면 에너지를 1 얻고 카드를 1장 뽑습니다.",
+      "cost": "1"
+    },
+    "desc": "드롭킥 사이클덱의 키 카드. 드롭킥 덱이 아니더라도 취약을 거는 카드가 많다면 집을만 하다. 단점으로는 취약이 없을 경우 일반 타격보다도 못한 저주급 함정카드가 된다는 것. 덱 상황을 봐가면서 집자."
+  },
+  {
+    "key": "reckless-charge",
+    "korName": "무모한 돌진",
+    "engName": "Reckless Charge",
+    "rarity": "uncommon",
+    "type": "attack",
+    "normal": {
+      "effect": "피해를 7 줍니다. 뽑을 카드 더미에 어지러움 카드를 섞어 넣습니다.",
+      "cost": "0"
+    },
+    "reinforced": {
+      "effect": "피해를 10 줍니다. 뽑을 카드 더미에 어지러움 카드를 섞어 넣습니다.",
+      "cost": "0"
+    },
+    "desc": "뽑을 카드에 어지러움 카드가 들어가기에 결국 드로우 하나를 손해보게 되는 카드. 드로우 하나하나가 매우 중요한 컨셉이 아닌 이상 1~2장 정도는 집어볼만하다."
+  },
+  {
+    "key": "searing-blow",
+    "korName": "불태우는 일격",
+    "engName": "Searing Blow",
+    "rarity": "uncommon",
+    "type": "attack",
+    "normal": {
+      "effect": "피해를 12 줍니다. 강화 횟수에 제한이 없습니다.",
+      "cost": "2"
+    },
+    "reinforced": {
+      "effect": "피해를 12+(3+강화수치) 줍니다. 강화 횟수에 제한이 없습니다.",
+      "cost": "2"
+    },
+    "desc": "강화를 하면 할 수록 강화효율이 좋아진다. 덱 자체를 불태우는 일격 위주로 맞춰가야만 진가가 드러난다. 극초반에 획득하고, 휴식을 하지 않아도 될 정도의 여유가 있다면 키워보자. 하지만 위의 조건을 맞추지 못한다면 아무런 부가효과도 없으면서 데미지도 애매한 카드가 된다. 손에 있는 카드를 강화하는 전투장비와 궁합이 좋다."
+  },
+  {
+    "key": "whirlwind",
+    "korName": "소용돌이",
+    "engName": "Whirlwind",
+    "rarity": "uncommon",
+    "type": "attack",
+    "normal": {
+      "effect": "적 전체에게 피해를 5만큼 X번 줍니다.",
+      "cost": "X"
+    },
+    "reinforced": {
+      "effect": "적 전체에게 피해를 8만큼 X번 줍니다.",
+      "cost": "X"
+    },
+    "desc": "게임에 몇 없는 강력한 광역기. 네크로노미콘과 연계하면 매우 강력해지고 강화했을 때의 데미지 기대값도 크다. 이 카드의 진가는 코스트 펌핑을 받거나 힘을 충분히 올렸을 때 나온다. 단일대상에게도 낮은 피해는 아니므로 한장 정도는 집을만하다. 스피드런 키카드."
+  },
+  {
+    "key": "uppercut",
+    "korName": "어퍼컷",
+    "engName": "Uppercut",
+    "rarity": "uncommon",
+    "type": "attack",
+    "normal": {
+      "effect": "피해를 13 줍니다. 약화를 1 부여합니다. 취약을 1 부여합니다.",
+      "cost": "2"
+    },
+    "reinforced": {
+      "effect": "피해를 13 줍니다. 약화를 2 부여합니다. 취약을 2 부여합니다.",
+      "cost": "2"
+    },
+    "desc": "아이언클래드는 약화를 걸 수단이 부족하기 때문에 좋다. 인공물 제거에도 탁월하고, 데미지에 취약까지, 한 장의 카드로 꽤 많은 효과를 얻을 수 있다. 아쉬운 점은 강화하지 않을 경우 디버프가 약하다는 것. 1층에서 잡아서 강화한다면 1층 엘리트를 손쉽게 쓸어버리고 스노우볼을 굴릴 수 있게 해준다. 충격파와 더불어 유이한 약화와 취약을 동시에 거는 카드."
+  },
+  {
+    "key": "pummel",
+    "korName": "연타",
+    "engName": "Pummel",
+    "rarity": "uncommon",
+    "type": "attack",
+    "normal": {
+      "effect": "피해를 2만큼 4번 줍니다. 소멸",
+      "cost": "1"
+    },
+    "reinforced": {
+      "effect": "피해를 2만큼 5번 줍니다. 소멸",
+      "cost": "1"
+    },
+    "desc": "힘을 증가시켜주는 카드들과 시너지가 좋다."
+  },
+  {
+    "key": "sever-soul",
+    "korName": "영혼 절단",
+    "engName": "Sever Soul",
+    "rarity": "uncommon",
+    "type": "attack",
+    "normal": {
+      "effect": "손에 있는 공격 카드를 제외한 모든 카드를 소멸시킵니다. 피해를 16 줍니다.",
+      "cost": "2"
+    },
+    "reinforced": {
+      "effect": "손에 있는 공격 카드를 제외한 모든 카드를 소멸시킵니다. 피해를 20 줍니다.",
+      "cost": "2"
+    },
+    "desc": "덱 압축 카드. 상태이상이나 저주 카드도 효과적으로 제거할 수 있다. 격돌과 시너지가 좋다. 단점이 있다면 다소 낮은 피해량과 낮은 강화 효율."
+  },
+  {
+    "key": "blood-for-blood",
+    "korName": "피에는 피",
+    "engName": "Blood for Blood",
+    "rarity": "uncommon",
+    "type": "attack",
+    "normal": {
+      "effect": "이번 전투에서 체력을 잃을 때마다 이 카드의 비용이 1 감소합니다. 피해를 18 줍니다.",
+      "cost": "4"
+    },
+    "reinforced": {
+      "effect": "이번 전투에서 체력을 잃을 때마다 이 카드의 비용이 1 감소합니다. 피해를 22 줍니다.",
+      "cost": "3"
+    },
+    "desc": "체력을 깎는 잔혹성과 같은 카드들과 시너지가 좋다. 전투에서 체력을 잃는 경우는 흔하므로 비용에 있어선 크게 부담가지 않는다."
+  },
+  {
+    "key": "hemokinesis",
+    "korName": "혈류",
+    "engName": "Hemokinesis",
+    "rarity": "uncommon",
+    "type": "attack",
+    "normal": {
+      "effect": "체력을 3 잃습니다. 피해를 14 줍니다.",
+      "cost": "1"
+    },
+    "reinforced": {
+      "effect": "체력을 2 잃습니다. 피해를 18 줍니다.",
+      "cost": "1"
+    },
+    "desc": "손에 모두 공격카드만 들고 있어야한다는 조건이 사라진 대신 비용이 1이고 체력을 잃게 되는 격돌. 굳이 광전사가 아니더라도 전사는 체력 회복수단이 많기에 쓰는 것이 가능하지만 애용되지는 않는 카드. 광전사가 집기에 좋다."
+  },
+  {
+    "key": "bludgeon",
+    "korName": "몽둥이질",
+    "engName": "Bludgeon",
+    "rarity": "rare",
+    "type": "attack",
+    "normal": {
+      "effect": "피해를 32 줍니다.",
+      "cost": "3"
+    },
+    "reinforced": {
+      "effect": "피해를 42 줍니다.",
+      "cost": "3"
+    },
+    "desc": "선뜻 사용하기에는 무거운 카드지만, 이 카드의 피해량은 타격 5장을 합친 것보다 높다. 어지간한 잡몹은 순식간에 골로 가게 만든다. 취약과의 궁합이 발군이다."
+  },
+  {
+    "key": "reaper",
+    "korName": "사신",
+    "engName": "Reaper",
+    "rarity": "rare",
+    "type": "attack",
+    "normal": {
+      "effect": "적 전체에게 피해를 4 줍니다. 막히지 않은 피해만큼 체력을 회복합니다. 소멸.",
+      "cost": "2"
+    },
+    "reinforced": {
+      "effect": "적 전체에게 피해를 5 줍니다. 막히지 않은 피해만큼 체력을 회복합니다. 소멸.",
+      "cost": "2"
+    },
+    "desc": "희귀한 흡혈 카드. 힘이 충분히 상승되었을때 막대한 회복수단으로 이용될수 있으며 잔챙이나 소환사 계열 보스에게 사용하면 풀피까지 채울 수도 있다."
+  },
+  {
+    "key": "fiend-fire",
+    "korName": "지옥불",
+    "engName": "Fiend Fire",
+    "rarity": "rare",
+    "type": "attack",
+    "normal": {
+      "effect": "카드를 전부 소멸시킵니다. 그 수만큼 피해를 7 줍니다. 소멸",
+      "cost": "2"
+    },
+    "reinforced": {
+      "effect": "카드를 전부 소멸시킵니다. 그 수만큼 피해를 10 줍니다. 소멸",
+      "cost": "2"
+    },
+    "desc": "덱 압축에 효과적인 카드. 말라죽은 가지를 사용해 모든 카드를 새롭게 교체할 수도 있고, 카론의 유골을 통해 딜을 추가할 수도 있다. 파워 카드 무감각, 어둠의 포옹과 조합하면 좋다."
+  },
+  {
+    "key": "feed",
+    "korName": "포식",
+    "engName": "Feed",
+    "rarity": "rare",
+    "type": "attack",
+    "normal": {
+      "effect": "피해를 10 줍니다. 이 공격으로 적이 죽으면 영구적으로 최대 체력이 3 증가합니다. 소멸",
+      "cost": "1"
+    },
+    "reinforced": {
+      "effect": "피해를 12 줍니다. 이 공격으로 적이 죽으면 영구적으로 최대 체력이 4 증가합니다. 소멸",
+      "cost": "1"
+    },
+    "desc": "여유가 있는 초반에 등장할수록 효율이 높은 카드. 태초에서 얻었다면 저 편 보스에 도달할 때쯤엔 체력이 120을 넘어가는 것도 볼 수 있다."
+  },
+  {
+    "key": "immolate",
+    "korName": "화형",
+    "engName": "Immolate",
+    "rarity": "rare",
+    "type": "attack",
+    "normal": {
+      "effect": "적 전체에게 피해를 21 줍니다. 버린 카드 더미에 화상 카드를 섞어 넣습니다.",
+      "cost": "2"
+    },
+    "reinforced": {
+      "effect": "적 전체에게 피해를 28 줍니다. 버린 카드 더미에 화상 카드를 섞어 넣습니다.",
+      "cost": "2"
+    },
+    "desc": "강화하면 28의 큰 데미지를 광역으로 넣을 수 있다는 점에서 좋지만 만약 에너지를 끌어올릴 유물이나 힘 버프가 있다면 소용돌이가 더 낫다."
+  },
+  {
+    "key": "flex",
+    "korName": "몸 풀기",
+    "engName": "Flex",
+    "rarity": "common",
+    "type": "skill",
+    "normal": {
+      "effect": "힘을 2 얻습니다. 턴이 끝날 때 힘을 2 잃습니다.",
+      "cost": "0"
+    },
+    "reinforced": {
+      "effect": "힘을 4 얻습니다. 턴이 끝날 때 힘을 4 잃습니다.",
+      "cost": "0"
+    },
+    "desc": "비용이 0이라서 공격 카드와 연계하기도 좋고, 한계 돌파를 사용해도 감소하는 힘은 그대로이므로 힘을 쉽게 증폭시켜 유지할 수 있다. 또한 턴 종료시 힘 감소 효과는 디버프로 취급되기 때문에 인공물을 이용하여 힘을 유지할 수도 있다."
+  },
+  {
+    "key": "true-grit",
+    "korName": "진정한 끈기",
+    "engName": "True Grit",
+    "rarity": "common",
+    "type": "skill",
+    "normal": {
+      "effect": "방어도를 7 얻습니다. 무작위 카드를 1장 소멸시킵니다.",
+      "cost": "1"
+    },
+    "reinforced": {
+      "effect": "방어도를 9 얻습니다. 카드를 1장 선택해 소멸시킵니다.",
+      "cost": "1"
+    },
+    "desc": "강화하기 전엔 어디에 사용할 지 알 수 없을 정도의 성능이지만, 강화하면 덱 압축이나 상태이상, 저주 카드 제거에 특효이며, 소멸덱에도 좋다."
+  },
+  {
+    "key": "warcry",
+    "korName": "전투의 함성",
+    "engName": "Warcry",
+    "rarity": "common",
+    "type": "skill",
+    "normal": {
+      "effect": "카드를 1장 뽑습니다. 카드 1장을 뽑을 카드 더미 맨 위에 놓습니다. 소멸",
+      "cost": "0"
+    },
+    "reinforced": {
+      "effect": "카드를 2장 뽑습니다. 카드 1장을 뽑을 카드 더미 맨 위에 놓습니다. 소멸",
+      "cost": "0"
+    },
+    "desc": "강화하지 않을 경우 사일런트의 예비보다 조금 나은 카드지만 강화시 덱 압축에 상당한 도움을 주는, 어느 덱에나 무난히 좋은 카드."
+  },
+  {
+    "key": "armaments",
+    "korName": "전투 장비",
+    "engName": "Armaments",
+    "rarity": "common",
+    "type": "skill",
+    "normal": {
+      "effect": "방어도를 5 얻습니다. 카드 1장을 전투가 끝날 때까지 강화합니다.",
+      "cost": "1"
+    },
+    "reinforced": {
+      "effect": "방어도를 5 얻습니다. 손에 있는 모든 카드를 전투가 끝날 때까지 강화합니다.",
+      "cost": "1"
+    },
+    "desc": "강화하면 손패의 모든 카드를 강화시켜주는 카드. 강화하기 전의 성능은 별로. 무색 카드인 신성의 하위호환 효과이나, 무색 카드는 구하기 힘들다보니 초반에 잡히면 상당히 강력한 카드. 단, 키카드에 의존하는 경향이 큰 덱일수록, 그리고 후반으로 갈수록 효용성이 떨어진다. 결국 키카드는 강화시키기 마련이기 때문. 강화 효과를 제외하면 노강 수비급의 효율밖에 내지 못하는게 최대의 문제점."
+  },
+  {
+    "key": "havoc",
+    "korName": "파괴",
+    "engName": "Havoc",
+    "rarity": "common",
+    "type": "skill",
+    "normal": {
+      "effect": "뽑을 카드 더미 맨 위의 카드를 사용한 뒤 소멸시킵니다.",
+      "cost": "1"
+    },
+    "reinforced": {
+      "effect": "뽑을 카드 더미 맨 위의 카드를 사용한 뒤 소멸시킵니다.",
+      "cost": "0"
+    },
+    "desc": "박치기, 전투의 함성과 연계하기 좋다. 전사에게 코스트 사기를 치게 해주는 몇 안되는 카드. 맨 위에 파워 카드를 올려둔 뒤에 써두면 매우 이득이다. 강화하면 0코스트인데 3코스트 짜리 악마화나 바리케이드 같은 카드를 공짜로 쓸수 있게 만드는 카드. 바꿔말하면 그런 카드가 없으면 랜덤성때문에 애매하다."
+  },
+  {
+    "key": "shrug-it-off",
+    "korName": "흘려보내기",
+    "engName": "Shrug It Off",
+    "rarity": "common",
+    "type": "skill",
+    "normal": {
+      "effect": "방어도를 8 얻습니다. 카드를 1장 뽑습니다.",
+      "cost": "1"
+    },
+    "reinforced": {
+      "effect": "방어도를 11 얻습니다. 카드를 1장 뽑습니다.",
+      "cost": "1"
+    },
+    "desc": "어느 덱에서든 덱 회전을 도와주고 상당한 방어력 증가 효과가 기본으로 붙어있는 좋은 카드."
+  },
+  {
+    "key": "sentinel",
+    "korName": "감시병",
+    "engName": "Sentinel",
+    "rarity": "uncommon",
+    "type": "skill",
+    "normal": {
+      "effect": "방어도를 5 얻습니다. 이 카드가 소멸하는 경우 에너지를 2 얻습니다.",
+      "cost": "1"
+    },
+    "reinforced": {
+      "effect": "방어도를 8 얻습니다. 이 카드가 소멸하는 경우 에너지를 3 얻습니다.",
+      "cost": "1"
+    },
+    "desc": "소멸 카드와 동시에 잡혀야 하기 때문에 사용이 까다롭다. 타락과의 시너지가 좋다."
+  },
+  {
+    "key": "rage",
+    "korName": "격노",
+    "engName": "Rage",
+    "rarity": "uncommon",
+    "type": "skill",
+    "normal": {
+      "effect": "이번 턴에 공격 카드를 사용할 때마다 방어도를 3 얻습니다.",
+      "cost": "0"
+    },
+    "reinforced": {
+      "effect": "이번 턴에 공격 카드를 사용할 때마다 방어도를 5 얻습니다.",
+      "cost": "0"
+    },
+    "desc": "아이언클래드는 보통 에너지를 다 써도 핸드는 남기 때문에 1장 정도는 채용할 만한 가치가 있다."
+  },
+  {
+    "key": "second-wind",
+    "korName": "기사회생",
+    "engName": "Second Wind",
+    "rarity": "uncommon",
+    "type": "skill",
+    "normal": {
+      "effect": "손에 있는 카드 중 공격 카드를 제외한 모든 카드를 소멸시키고 그 수만큼 방어도를 5 얻습니다.",
+      "cost": "1"
+    },
+    "reinforced": {
+      "effect": "손에 있는 카드 중 공격 카드를 제외한 모든 카드를 소멸시키고 그 수만큼 방어도를 7 얻습니다.",
+      "cost": "1"
+    },
+    "desc": "부상전사가 집으면 부상카드의 수를 조절할 수 있다. 격돌과 시너지가 좋다."
+  },
+  {
+    "key": "power-through",
+    "korName": "난관 극복",
+    "engName": "Power Through",
+    "rarity": "uncommon",
+    "type": "skill",
+    "normal": {
+      "effect": "부상 카드를 2장 받습니다. 방어도를 15 얻습니다.",
+      "cost": "1"
+    },
+    "reinforced": {
+      "effect": "부상 카드를 2장 받습니다. 방어도를 20 얻습니다.",
+      "cost": "1"
+    },
+    "desc": "부상 전사 컨셉덱에 유용한 카드. 코스트 대비 큰 방어도를 얻을 수 있다."
+  },
+  {
+    "key": "disarm",
+    "korName": "무장 해제",
+    "engName": "Disarm",
+    "rarity": "uncommon",
+    "type": "skill",
+    "normal": {
+      "effect": "적의 힘을 2 감소시킵니다. 소멸",
+      "cost": "1"
+    },
+    "reinforced": {
+      "effect": "적의 힘을 3 감소시킵니다. 소멸",
+      "cost": "1"
+    },
+    "desc": "엘리트나 보스, 특히 연타 공격을 쓰는 상대에게 쓸만하다. 직접적으로 힘을 감소시키는 카드는 오직 이것 뿐이다."
+  },
+  {
+    "key": "burning-pact",
+    "korName": "불타는 조약",
+    "engName": "Burning Pact",
+    "rarity": "uncommon",
+    "type": "skill",
+    "normal": {
+      "effect": "카드를 1장 소멸시킵니다. 카드를 2장 뽑습니다.",
+      "cost": "1"
+    },
+    "reinforced": {
+      "effect": "카드를 1장 소멸시킵니다. 카드를 3장 뽑습니다.",
+      "cost": "1"
+    },
+    "desc": "덱을 압축하는 것과 동시에 드로우도 할 수 있는 좋은 카드."
+  },
+  {
+    "key": "bloodletting",
+    "korName": "사혈",
+    "engName": "Bloodletting",
+    "rarity": "uncommon",
+    "type": "skill",
+    "normal": {
+      "effect": "에너지를 1 얻습니다. 체력을 3 잃습니다.",
+      "cost": "0"
+    },
+    "reinforced": {
+      "effect": "에너지를 2 얻습니다. 체력을 3 잃습니다.",
+      "cost": "0"
+    },
+    "desc": "체력이 소모되지만 소멸하지 않는 혈안. 파열과 시너지가 좋다."
+  },
+  {
+    "key": "spot-weakness",
+    "korName": "약점 분석",
+    "engName": "Spot Weakness",
+    "rarity": "uncommon",
+    "type": "skill",
+    "normal": {
+      "effect": "선택한 적이 공격할 의도가 있다면 힘을 3 얻습니다.",
+      "cost": "1"
+    },
+    "reinforced": {
+      "effect": "선택한 적이 공격할 의도가 있다면 힘을 4 얻습니다.",
+      "cost": "1"
+    },
+    "desc": "타이밍이 엇갈리면 드로우 1장을 손해보는 것이지만 그를 감안해도 채용할만한 좋은 카드. 발화보다 힘 증가량이 1 높고 한 전투에서 여러 번 사용할 수 있다는 장점이 있다."
+  },
+  {
+    "key": "intimidate",
+    "korName": "위압",
+    "engName": "Intimidate",
+    "rarity": "uncommon",
+    "type": "skill",
+    "normal": {
+      "effect": "적 전체에게 약화를 1 부여합니다. 소멸",
+      "cost": "0"
+    },
+    "reinforced": {
+      "effect": "적 전체에게 약화를 2 부여합니다. 소멸",
+      "cost": "0"
+    },
+    "desc": "약화 카드가 부족한 덱에서 채용할만한 카드. 0코스트 소멸이므로 덱이 꼬일 걱정도 할 필요가 거의 없다."
+  },
+  {
+    "key": "ghostly-armor",
+    "korName": "유령 갑옷",
+    "engName": "Ghostly Armor",
+    "rarity": "uncommon",
+    "type": "skill",
+    "normal": {
+      "effect": "휘발성. 방어도를 10 얻습니다.",
+      "cost": "1"
+    },
+    "reinforced": {
+      "effect": "휘발성. 방어도를 13 얻습니다.",
+      "cost": "1"
+    },
+    "desc": "1코스트라 휘발성 효과는 크게 패널티로 와닿지 않는다. 방어도를 손쉽게 쌓을 수 있게 만들어주는 좋은 카드."
+  },
+  {
+    "key": "dual-wield",
+    "korName": "이도류",
+    "engName": "Dual Wield",
+    "rarity": "uncommon",
+    "type": "skill",
+    "normal": {
+      "effect": "공격 또는 파워 카드를 복사합니다.",
+      "cost": "1"
+    },
+    "reinforced": {
+      "effect": "공격 또는 파워 카드를 2장 복사합니다.",
+      "cost": "1"
+    },
+    "desc": "공격 카드를 복사할 경우 덱이 불어나기 때문에 미묘한 카드. 키 카드가 적은 초반에는 써볼만 하겠지만 주력 딜카드가 0코 몸통 박치기인 방밀덱이나 타격 카드가 곧 딜량인 완벽한 타격 덱을 제외하면 갈수록 손에서 노는 경우가 많다. 격돌이나 방금 지옥검으로 얻은 0 코스트의 공격 카드를 복사하면 순간적으로 피해량을 늘릴 수 있다."
+  },
+  {
+    "key": "battle-trance",
+    "korName": "전투 최면",
+    "engName": "Battle Trance",
+    "rarity": "uncommon",
+    "type": "skill",
+    "normal": {
+      "effect": "카드를 3장 뽑습니다. 이번 턴 동안 더 이상 카드를 뽑을 수 없습니다.",
+      "cost": "0"
+    },
+    "reinforced": {
+      "effect": "카드를 4장 뽑습니다. 이번 턴 동안 더 이상 카드를 뽑을 수 없습니다.",
+      "cost": "0"
+    },
+    "desc": "어느 덱에나 있어도 거의 무패널티의 좋은 드로우 카드. 드로우 불가 효과는 유일하게 같은 전투 최면을 여러 장 쓸때나 문제되는 부분이지만, 그걸 감안하더라도 두장 세장 집을만한 꿀카드. 지옥검이나 말라죽은 가지 등의 카드를 생성하는 효과에는 적용되지 않는다."
+  },
+  {
+    "key": "infernal-blade",
+    "korName": "지옥검",
+    "engName": "Infernal Blade",
+    "rarity": "uncommon",
+    "type": "skill",
+    "normal": {
+      "effect": "무작위 공격 카드 1장을 손으로 가져옵니다. 가져온 카드는 이번 턴에만 비용이 0이 됩니다. 소멸",
+      "cost": "1"
+    },
+    "reinforced": {
+      "effect": "무작위 공격 카드 1장을 손으로 가져옵니다. 가져온 카드는 이번 턴에만 비용이 0이 됩니다. 소멸",
+      "cost": "0"
+    },
+    "desc": "가져온 카드의 비용은 이번 턴에만 0이 된다는 것에 주의. 덱 장수가 많다면 상관없지만 고도로 압축된 덱의 경우 쓸모 없는 카드가 들어온 후 계속 손에 잡혀 골칫거리가 될 수 있다."
+  },
+  {
+    "key": "entrench",
+    "korName": "참호",
+    "engName": "Entrench",
+    "rarity": "uncommon",
+    "type": "skill",
+    "normal": {
+      "effect": "방어도가 2배로 증가합니다.",
+      "cost": "2"
+    },
+    "reinforced": {
+      "effect": "방어도가 2배로 증가합니다.",
+      "cost": "1"
+    },
+    "desc": "방밀전사의 키카드. 무적과 함께 사용시 무시무시한 방어도를 얻을 수 있다."
+  },
+  {
+    "key": "shockwave",
+    "korName": "충격파",
+    "engName": "Shockwave",
+    "rarity": "uncommon",
+    "type": "skill",
+    "normal": {
+      "effect": "적 전체에게 약화와 취약을 3 부여합니다.",
+      "cost": "2"
+    },
+    "reinforced": {
+      "effect": "적 전체에게 약화와 취약을 5 부여합니다.",
+      "cost": "2"
+    },
+    "desc": "전사는 약화효과를 주는 카드가 많지 않으므로 체력관리가 불안정하다면 집어볼 만 하다. 강화할 경우 비교적 딜이 약한 다른 효과가 함께 붙은 카드 대신 딜만 넣는 강력한 카드를 계속해서 쓸 수 있으므로 이득이 크다."
+  },
+  {
+    "key": "seeing-red",
+    "korName": "혈안",
+    "engName": "Seeing Red",
+    "rarity": "uncommon",
+    "type": "skill",
+    "normal": {
+      "effect": "에너지를 2 얻습니다. 소멸",
+      "cost": "1"
+    },
+    "reinforced": {
+      "effect": "에너지를 2 얻습니다. 소멸",
+      "cost": "0"
+    },
+    "desc": "추가 에너지를 제공하는 좋은 카드. 하지만 드로우 카드가 부족하면 효율이 떨어진다."
+  },
+  {
+    "key": "flame-barrier",
+    "korName": "화염 장벽",
+    "engName": "Flame Barrier",
+    "rarity": "uncommon",
+    "type": "skill",
+    "normal": {
+      "effect": "방어도를 12 얻습니다. 이번 턴에 공격을 받을 때마다, 공격한 대상에게 피해를 4 줍니다.",
+      "cost": "2"
+    },
+    "reinforced": {
+      "effect": "방어도를 16 얻습니다. 이번 턴에 공격을 받을 때마다, 공격한 대상에게 피해를 6 줍니다.",
+      "cost": "2"
+    },
+    "desc": "방어와 동시에 연타계열 적에게 강력한 딜까지 넣을 수 있는 카드. 사이클덱을 제외한 어떤 덱에 넣어도 무난하게 좋다."
+  },
+  {
+    "key": "impervious",
+    "korName": "무적",
+    "engName": "Impervious",
+    "rarity": "rare",
+    "type": "skill",
+    "normal": {
+      "effect": "방어도를 30 얻습니다. 소멸",
+      "cost": "2"
+    },
+    "reinforced": {
+      "effect": "방어도를 40 얻습니다. 소멸",
+      "cost": "2"
+    },
+    "desc": "한 턴을 버티는 카드. 방밀전사라면 참호와 연계해 한번에 60에서 80이라는 엄청난 방어도를 쌓을 수 있다."
+  },
+  {
+    "key": "exhume",
+    "korName": "발굴",
+    "engName": "Exhume",
+    "rarity": "rare",
+    "type": "skill",
+    "normal": {
+      "effect": "소멸된 카드를 1장 선택해 가져옵니다. 소멸",
+      "cost": "1"
+    },
+    "reinforced": {
+      "effect": "소멸된 카드를 1장 선택해 가져옵니다. 소멸",
+      "cost": "0"
+    },
+    "desc": "소멸되는 카드는 대부분 강력한 효과를 가지고 있기 때문에 어느 컨셉에서도 쓸만하다. 단, 발굴로 발굴을 획득하는 것은 불가능하므로 주의."
+  },
+  {
+    "key": "double-tap",
+    "korName": "연사",
+    "engName": "Double Tap",
+    "rarity": "rare",
+    "type": "skill",
+    "normal": {
+      "effect": "이번 턴에 사용하는 다음 공격 카드는 2번 적용됩니다.",
+      "cost": "1"
+    },
+    "reinforced": {
+      "effect": "이번 턴에 사용하는 다음 공격 카드 2장은 2번 적용됩니다.",
+      "cost": "1"
+    },
+    "desc": "네크로노미콘, 펜 촉 유물과 시너지가 좋다. 고코스트 공격카드 위주로 덱을 짰다면 꼭 가져가도록 하자."
+  },
+  {
+    "key": "offering",
+    "korName": "제물",
+    "engName": "Offering",
+    "rarity": "rare",
+    "type": "skill",
+    "normal": {
+      "effect": "체력을 6 잃습니다. 에너지를 2 얻습니다. 카드를 3장 뽑습니다. 소멸.",
+      "cost": "0"
+    },
+    "reinforced": {
+      "effect": "체력을 6 잃습니다. 에너지를 2 얻습니다. 카드를 5장 뽑습니다. 소멸.",
+      "cost": "0"
+    },
+    "desc": "0코로 에너지와 드로우를 동시에 보는 갓카드. 강화시 에너지가 1 부족한 추가 턴을 쓰는 듯한 효과를 볼 수 있다."
+  },
+  {
+    "key": "limit-break",
+    "korName": "한계 돌파",
+    "engName": "Limit Break",
+    "rarity": "rare",
+    "type": "skill",
+    "normal": {
+      "effect": "힘이 2배로 증가합니다. 소멸.",
+      "cost": "2"
+    },
+    "reinforced": {
+      "effect": "힘이 2배로 증가합니다. 소멸.",
+      "cost": "2"
+    },
+    "desc": "힘이 적은 덱에선 저주급으로 덱을 꼬이게 하지만 힘이 평균정도라도 있는 덱에선 강화된 한계돌파를 계속 사용하는 것 하나로 뒷심이 될 정도로 포텐이 있다. 특히 박치기와 연계해 한 번에 힘을 4배로 늘릴 수 있다."
+  },
+  {
+    "key": "metallicize",
+    "korName": "화",
+    "engName": "Metallicize",
+    "rarity": "uncommon",
+    "type": "power",
+    "normal": {
+      "effect": "턴 종료 시 방어도를 3 얻습니다.",
+      "cost": "1"
+    },
+    "reinforced": {
+      "effect": "턴 종료 시 방어도를 4 얻습니다.",
+      "cost": "1"
+    },
+    "desc": ""
+  },
+  {
+    "key": "feel-no-pain",
+    "korName": "무감각",
+    "engName": "Feel No Pain",
+    "rarity": "uncommon",
+    "type": "power",
+    "normal": {
+      "effect": "카드가 소멸될 때마다 방어도를 3 얻습니다.",
+      "cost": "1"
+    },
+    "reinforced": {
+      "effect": "카드가 소멸될 때마다 방어도를 4 얻습니다.",
+      "cost": "1"
+    },
+    "desc": "소멸전사의 키 카드. 여담으로 무감각을 쓴상태에선 특정 조건에 의해 어지러움이 잔뜩 들어오더라도, 턴이 끝날땐 상당한 방어스택이 쌓인다."
+  },
+  {
+    "key": "inflame",
+    "korName": "발화",
+    "engName": "Inflame",
+    "rarity": "uncommon",
+    "type": "power",
+    "normal": {
+      "effect": "힘을 2 얻습니다.",
+      "cost": "1"
+    },
+    "reinforced": {
+      "effect": "힘을 3 얻습니다.",
+      "cost": "1"
+    },
+    "desc": "아무런 조건 없이 힘을 올려주는 좋은 카드."
+  },
+  {
+    "key": "fire-breathing",
+    "korName": "불 뿜기",
+    "engName": "Fire Breathing",
+    "rarity": "uncommon",
+    "type": "power",
+    "normal": {
+      "effect": "턴 종료 시 이번 턴에 사용된 공격 카드의 수만큼 적 전체에게 피해를 1 줍니다.",
+      "cost": "1"
+    },
+    "reinforced": {
+      "effect": "턴 종료 시 이번 턴에 사용된 공격 카드의 수만큼 적 전체에게 피해를 1 줍니다.",
+      "cost": "0"
+    },
+    "desc": "아이언클래드는 공격 카드를 여러 개 사용하기 힘든 직업이라서 추가로 들어가는 데미지가 굉장히 미미하다."
+  },
+  {
+    "key": "combust",
+    "korName": "연소",
+    "engName": "Combust",
+    "rarity": "uncommon",
+    "type": "power",
+    "normal": {
+      "effect": "턴 종료 시 체력을 1 잃고 적 전체에게 5의 피해를 줍니다.",
+      "cost": "1"
+    },
+    "reinforced": {
+      "effect": "턴 종료 시 체력을 1 잃고 적 전체에게 7의 피해를 줍니다.",
+      "cost": "1"
+    },
+    "desc": "체력을 잃고 부가적인 효과를 얻도록 하는 광전사 덱에서 유용한 카드."
+  },
+  {
+    "key": "evolve",
+    "korName": "진화",
+    "engName": "Evolve",
+    "rarity": "uncommon",
+    "type": "power",
+    "normal": {
+      "effect": "상태이상 카드를 뽑으면 카드를 1장 뽑습니다.",
+      "cost": "1"
+    },
+    "reinforced": {
+      "effect": "상태이상 카드를 뽑으면 카드를 2장 뽑습니다.",
+      "cost": "1"
+    },
+    "desc": "부상 전사의 키 카드. 과거 효과가 바뀌기 전엔 덱에 부상 카드를 두 장 넣는 패널티가 있었지만 이제는 없다."
+  },
+  {
+    "key": "corruption",
+    "korName": "타락",
+    "engName": "Corruption",
+    "rarity": "uncommon",
+    "type": "power",
+    "normal": {
+      "effect": "스킬 카드의 비용이 0이 됩니다. 스킬 카드를 사용할 때마다 소멸시킵니다.",
+      "cost": "3"
+    },
+    "reinforced": {
+      "effect": "스킬 카드의 비용이 0이 됩니다. 스킬 카드를 사용할 때마다 소멸시킵니다.",
+      "cost": "2"
+    },
+    "desc": "소멸전사의 키 카드. 말라 죽은 가지와 무감각과 함께 사용하면 미친듯한 시너지가 터진다.다만 한계 돌파같은 몇몇 스킬하곤 시너지가 약간 안좋다. 강화된 한계돌파까지 얄짤없이 태워버리지만 대부분 타락을 사용하는 시점이 말라 죽은 가지를 든 후 라는 것을 보면, 거의 무의미한 단점."
+  },
+  {
+    "key": "rupture",
+    "korName": "파열",
+    "engName": "Rupture",
+    "rarity": "uncommon",
+    "type": "power",
+    "normal": {
+      "effect": "카드의 효과로 체력을 잃을 때마다, 힘을 1 얻습니다.",
+      "cost": "1"
+    },
+    "reinforced": {
+      "effect": "카드의 효과로 체력을 잃을 때마다, 힘을 1 얻습니다.",
+      "cost": "0"
+    },
+    "desc": "광전사의 키카드. 사혈이나 잔혹성과 연계하면 좋다."
+  },
+  {
+    "key": "berserk",
+    "korName": "광폭화",
+    "engName": "Berserk",
+    "rarity": "rare",
+    "type": "power",
+    "normal": {
+      "effect": "취약을 3 받습니다. 매 턴 에너지를 1 얻습니다.",
+      "cost": "0"
+    },
+    "reinforced": {
+      "effect": "취약을 2 받습니다. 매 턴 에너지를 1 얻습니다.",
+      "cost": "0"
+    },
+    "desc": ""
+  },
+  {
+    "key": "barricade",
+    "korName": "바리케이드",
+    "engName": "Barricade",
+    "rarity": "rare",
+    "type": "power",
+    "normal": {
+      "effect": "턴 시작 시 방어도가 사라지지 않습니다.",
+      "cost": "3"
+    },
+    "reinforced": {
+      "effect": "턴 시작 시 방어도가 사라지지 않습니다.",
+      "cost": "2"
+    },
+    "desc": "방밀전사에게 매우 중요한 카드지만 희귀 카드라서 찾기 쉽지 않다. 방밀 컨셉을 잡기 힘든 이유이다.동시에 소멸 전사계통에게도 상당히 유용하게 사용되는 카드."
+  },
+  {
+    "key": "demon-form",
+    "korName": "악마의 형상",
+    "engName": "Demon Form",
+    "rarity": "rare",
+    "type": "power",
+    "normal": {
+      "effect": "매 턴 시작 시 힘을 2 얻습니다.",
+      "cost": "3"
+    },
+    "reinforced": {
+      "effect": "매 턴 시작 시 힘을 3 얻습니다.",
+      "cost": "3"
+    },
+    "desc": "효과는 좋지만 코스트가 높기 때문에 사용에 주의가 필요하다. 즉시 힘을 얻는 다른 카드들이 많을 땐 어지간해선 집지 않는 것이 좋으나 어떤 덱이던지 악마화 하나로 혹은 강화된 한계 돌파와 같이 두 장만으로도 딜링을 위한 뒷심이 전부 해결되기에 극초반용 덱이 아닌이상 집어서 크게 손해볼 일이 없고 특히 방어적인 덱이나 뒷심이 필요한 덱에 큰 도움이 된다. 다만 초반에 사용하지 않을수록 효율이 떨어지기에 덱의 적절한 조율이 필요하다."
+  },
+  {
+    "key": "dark-embrace",
+    "korName": "어둠의 포옹",
+    "engName": "Dark Embrace",
+    "rarity": "rare",
+    "type": "power",
+    "normal": {
+      "effect": "카드가 소멸될 때마다 1장의 카드를 뽑습니다.",
+      "cost": "2"
+    },
+    "reinforced": {
+      "effect": "카드가 소멸될 때마다 1장의 카드를 뽑습니다.",
+      "cost": "1"
+    },
+    "desc": "소멸전사 덱 회전의 핵심. 하지만 동시에 후반에 유물과 카드가 잘맞춰지면 소멸하며 말라 죽은 가지에 의해 생성되는 카드가 너무늘어나 드로우 해야할 카드가 밀려나는 등 사용이 귀찮아질 수 있고 지옥불 같은 다른 카드를 소멸시키는 카드의 제물이 되곤한다."
+  },
+  {
+    "key": "brutality",
+    "korName": "잔혹성",
+    "engName": "Brutality",
+    "rarity": "rare",
+    "type": "power",
+    "normal": {
+      "effect": "턴 시작 시 체력을 1 잃고 카드를 1장 뽑습니다.",
+      "cost": "0"
+    },
+    "reinforced": {
+      "effect": "선천성 턴 시작 시 체력을 1 잃고 카드를 1장 뽑습니다.",
+      "cost": "0"
+    },
+    "desc": "적은 리스크로 추가 드로우를 볼 수 있는 유용한 카드. 파열과 시너지가 좋다"
+  },
+  {
+    "key": "juggernaut",
+    "korName": "절대적인 힘",
+    "engName": "Juggernaut",
+    "rarity": "rare",
+    "type": "power",
+    "normal": {
+      "effect": "방어도를 얻을 때마다 무작위 적에게 5의 피해를 줍니다.",
+      "cost": "2"
+    },
+    "reinforced": {
+      "effect": "방어도를 얻을 때마다 무작위 적에게 7의 피해를 줍니다.",
+      "cost": "2"
+    },
+    "desc": "덱 컨셉의 중추는 될 수 없지만 무난하게 채용할만한 카드. 방밀 전사덱인데 몸통 박치기가 잡히지 않았을 경우 유용하게 쓸 수 있다."
+  }
+]

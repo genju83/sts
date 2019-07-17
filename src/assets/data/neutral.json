@@ -1,0 +1,626 @@
+[
+  {
+    "key": "shiv",
+    "korName": "단도",
+    "engName": "Shiv",
+    "rarity": "common",
+    "type": "attack",
+    "normal": {
+      "effect": "피해를 4 줍니다. 소멸",
+      "cost": "0"
+    },
+    "reinforced": {
+      "effect": "피해를 6 줍니다. 소멸",
+      "cost": "0"
+    },
+    "desc": "코스트에 비해 좋은 데미지를 지닌 카드."
+  },
+  {
+    "key": "ritual-dagger",
+    "korName": "의식용 단검",
+    "engName": "Ritual Dagger",
+    "rarity": "common",
+    "type": "attack",
+    "normal": {
+      "effect": "피해를 15 줍니다. 만약 적이 죽으면, 이 카드의 피해량이 영구적으로 3만큼 증가합니다. 소멸.",
+      "cost": "1"
+    },
+    "reinforced": {
+      "effect": "피해를 15 줍니다. 만약 적이 죽으면, 이 카드의 피해량이 영구적으로 5만큼 증가합니다. 소멸.",
+      "cost": "1"
+    },
+    "desc": "유전 알고리즘의 공격 카드 버젼."
+  },
+  {
+    "key": "bite",
+    "korName": "흡혈",
+    "engName": "Bite",
+    "rarity": "common",
+    "type": "attack",
+    "normal": {
+      "effect": "피해를 7 줍니다. 체력을 2 회복합니다.",
+      "cost": "1"
+    },
+    "reinforced": {
+      "effect": "피해를 8 줍니다. 체력을 3 회복합니다.",
+      "cost": "1"
+    },
+    "desc": "이벤트로 흡혈귀들과 조우하여 최대 체력 혹은 유물, 그리고 타격 카드를 대가로 얻을 수 있는 공격 카드. 신성이나 녹아내린 알이 있다면 교환할 가치가 조금 있다."
+  },
+  {
+    "key": "flash-of-steel",
+    "korName": "강철의 섬광",
+    "engName": "Flash of Steel",
+    "rarity": "uncommon",
+    "type": "attack",
+    "normal": {
+      "effect": "피해를 3 줍니다. 카드를 1장 뽑습니다.",
+      "cost": "0"
+    },
+    "reinforced": {
+      "effect": "피해를 6 줍니다. 카드를 1장 뽑습니다.",
+      "cost": "0"
+    },
+    "desc": "공격과 드로우를 같이 취할 수 있는 무난한 0비용 카드. 힘전사덱이나 독 바르기를 기용한 단도 도적덱과 시너지가 좋다. 극한의 덱압축으로 특화덱을 짜면 원턴킬을 뽑을 수도 있다."
+  },
+  {
+    "key": "dramatic-entrance",
+    "korName": "극적인 입장",
+    "engName": "Dramatic Entrance",
+    "rarity": "uncommon",
+    "type": "attack",
+    "normal": {
+      "effect": "선천성. 적 전체에게 피해를 6 줍니다. 소멸",
+      "cost": "0"
+    },
+    "reinforced": {
+      "effect": "선천성. 적 전체에게 피해를 8 줍니다. 소멸",
+      "cost": "0"
+    },
+    "desc": "사일런트 전용 카드 배신의 전체 공격 버젼. 전체 공격인 대신 위력이 절반 정도밖에 되지 않는다. 단일로 강한 개체가 나오는 엘리트나 보스와의 전투에서는 쓸모 없는 카드가 되기 쉽다."
+  },
+  {
+    "key": "swift-strike",
+    "korName": "재빠른 타격",
+    "engName": "Swift Strike",
+    "rarity": "uncommon",
+    "type": "attack",
+    "normal": {
+      "effect": "피해를 6 줍니다.",
+      "cost": "0"
+    },
+    "reinforced": {
+      "effect": "피해를 9 줍니다.",
+      "cost": "0"
+    },
+    "desc": "사일런트는 단도가 있으니 집을 이유가 없다. 공짜 6딜이지만 오히려 덱 사이클링을 망치는 카드가 될 수 있다."
+  },
+  {
+    "key": "mind-blast",
+    "korName": "정신 공격",
+    "engName": "Mind Blast",
+    "rarity": "uncommon",
+    "type": "attack",
+    "normal": {
+      "effect": "선천성. 뽑을 카드 더미에 있는 카드의 수만큼 피해를 줍니다.",
+      "cost": "2"
+    },
+    "reinforced": {
+      "effect": "선천성. 뽑을 카드 더미에 있는 카드의 수만큼 피해를 줍니다.",
+      "cost": "1"
+    },
+    "desc": "후반 덱이 늘어날수록 강해지는 카드. 덱이 커질 수 밖에 없는 컨셉이라면 강화 눈에서 빔으로 0코 30딜 이상을 연타해주자. 덱 순환이 절대적으로 필요한 덱이 아니면 0코스트라는 점에서 그냥 대충 집어도 값어치를 한다. 다만 꼭 강화는 해서 쓰자."
+  },
+  {
+    "key": "hand-of-greed",
+    "korName": "탐욕의 손",
+    "engName": "Hand of Greed",
+    "rarity": "rare",
+    "type": "attack",
+    "normal": {
+      "effect": "피해를 20 줍니다. 이 공격으로 하수인이 아닌 적이 죽으면, 골드를 15 얻습니다.",
+      "cost": "2"
+    },
+    "reinforced": {
+      "effect": "피해를 25 줍니다. 이 공격으로 하수인이 아닌 적이 죽으면, 골드를 20 얻습니다.",
+      "cost": "2"
+    },
+    "desc": "최초로 카드를 통해 골드를 얻을 수 있는 카드."
+  },
+  {
+    "key": "j-a-x",
+    "korName": "J.A.X",
+    "engName": "J.A.X",
+    "rarity": "common",
+    "type": "skill",
+    "normal": {
+      "effect": "체력을 3 잃습니다. 힘을 2 얻습니다.",
+      "cost": "0"
+    },
+    "reinforced": {
+      "effect": "체력을 3 잃습니다. 힘을 3 얻습니다.",
+      "cost": "0"
+    },
+    "desc": "얻는 패널티에 비해 이득이 크지만, 방어력을 무시하고 곧바로 체력이 감소하기 때문에 주의해야 한다."
+  },
+  {
+    "key": "apparition",
+    "korName": "영체화",
+    "engName": "Apparition",
+    "rarity": "common",
+    "type": "skill",
+    "normal": {
+      "effect": "불가침을 1 얻습니다. 소멸. 휘발성.",
+      "cost": "1"
+    },
+    "reinforced": {
+      "effect": "불가침을 1 얻습니다. 소멸.",
+      "cost": "1"
+    },
+    "desc": "유령 의회 이벤트에서 획득할 수 있다. 강화 시 휘발성이 사라지지만 보통 들어오는 대로 사용하는 카드이기 때문에 크게 느껴지진 않는다."
+  },
+  {
+    "key": "enlightenment",
+    "korName": "계몽",
+    "engName": "Enlightenment",
+    "rarity": "uncommon",
+    "type": "skill",
+    "normal": {
+      "effect": "이번 턴 동안 손에 있는 모든 카드의 비용을 1로 낮춥니다.",
+      "cost": "0"
+    },
+    "reinforced": {
+      "effect": "전투가 끝날 때까지 손에 있는 모든 카드의 비용을 1로 낮춥니다.",
+      "cost": "0"
+    },
+    "desc": "1로 줄이는 것이기 때문에 비용이 0인 카드가 1로 늘어나진 않는다. 스네코의 눈을 이용한 빅 코스트 덱을 짤 때 사용추천. 0코스트가 된 카드들은 그대로 0코스트로 남고 2~3코가 된 카드들은 1코로 줄어든다."
+  },
+  {
+    "key": "madness",
+    "korName": "광기",
+    "engName": "Madness",
+    "rarity": "uncommon",
+    "type": "skill",
+    "normal": {
+      "effect": "이번 전투 동안 손에 있는 무작위의 카드 1장의 비용이 0이 됩니다. 소멸",
+      "cost": "1"
+    },
+    "reinforced": {
+      "effect": "이번 전투 동안 손에 있는 무작위의 카드 1장의 비용이 0이 됩니다. 소멸",
+      "cost": "0"
+    },
+    "desc": "전투 중 지속이기 때문에 파워 카드보다는 공격, 기술 카드과 시너지가 좋다. 체력을 대가로 광기 2장을 얻는 미지 지역 이벤트가 있다. 1코스트 카드를 줄이면 카드 더미가 한 바퀴 돌아야 이득을 본다. 카드 1자리를 차지하면서 조절하기 힘든 랜덤성을 지니고 있어 이득보기가 쉽진 않다."
+  },
+  {
+    "key": "finesse",
+    "korName": "능숙",
+    "engName": "Finesse",
+    "rarity": "uncommon",
+    "type": "skill",
+    "normal": {
+      "effect": "방어도를 2 얻습니다. 카드를 1장 뽑습니다.",
+      "cost": "0"
+    },
+    "reinforced": {
+      "effect": "방어도를 4 얻습니다. 카드를 1장 뽑습니다.",
+      "cost": "0"
+    },
+    "desc": "0코스트 1드로우이기 때문에 덱에 영향을 주지 않으며 방어도를 얻을 수 있다. 몇 장을 넣어도 좋을 카드. 다만 시간 탐식자를 상대할 때엔 좋지 않은 카드이다."
+  },
+  {
+    "key": "forethought",
+    "korName": "대비",
+    "engName": "Forethought",
+    "rarity": "uncommon",
+    "type": "skill",
+    "normal": {
+      "effect": "손에 있는 카드를 1장 뽑을 카드 더미 맨 밑에 둡니다. 사용하기 전까지 그 카드의 비용은 0이 됩니다.",
+      "cost": "0"
+    },
+    "reinforced": {
+      "effect": "손에 있는 카드를 원하는 만큼 뽑을 카드 더미 맨 밑에 둡니다. 사용하기 전까지 그 카드의 비용은 0이 됩니다.",
+      "cost": "0"
+    },
+    "desc": "덱 장수가 적을 수록 큰 효과를 볼 수 있는 카드."
+  },
+  {
+    "key": "panacea",
+    "korName": "만병통치약",
+    "engName": "Panacea",
+    "rarity": "uncommon",
+    "type": "skill",
+    "normal": {
+      "effect": "인공물을 1 얻습니다. 소멸.",
+      "cost": "0"
+    },
+    "reinforced": {
+      "effect": "인공물을 2 얻습니다. 소멸.",
+      "cost": "0"
+    },
+    "desc": ""
+  },
+  {
+    "key": "discovery",
+    "korName": "발견",
+    "engName": "Discovery",
+    "rarity": "uncommon",
+    "type": "skill",
+    "normal": {
+      "effect": "무작위 3장의 카드 중 1장을 선택해 손으로 가져옵니다. 이번 턴 동안 비용이 0이 됩니다. 소멸.",
+      "cost": "1"
+    },
+    "reinforced": {
+      "effect": "무작위 3장의 카드 중 1장을 선택해 손으로 가져옵니다. 이번 턴 동안 비용이 0이 됩니다.",
+      "cost": "1"
+    },
+    "desc": "공격, 스킬, 파워 포션의 카드 버젼. 카드 유형도 정해져있지 않아 어떤 카드가 나올 지 알기 힘들다는 단점이 있다."
+  },
+  {
+    "key": "bandage-up",
+    "korName": "붕대 감기",
+    "engName": "Bandage Up",
+    "rarity": "uncommon",
+    "type": "skill",
+    "normal": {
+      "effect": "체력을 4 회복합니다. 소멸",
+      "cost": "0"
+    },
+    "reinforced": {
+      "effect": "체력을 6 회복합니다. 소멸",
+      "cost": "0"
+    },
+    "desc": "체력 회복이 굉장히 한정적인 게임 특성상 좋을것 같지만 판당 1회인데다가 덱순환이 꼬일 염려가 있어서 굳이 구할 필요는 없는 카드. 다만 캐릭터의 특성 자체가 드로우가 많고 체력 회복이 없는 사일런트라면 고려해볼 가치가 있다."
+  },
+  {
+    "key": "panic-button",
+    "korName": "비상 단추",
+    "engName": "Panic Button",
+    "rarity": "uncommon",
+    "type": "skill",
+    "normal": {
+      "effect": "방어도를 30 얻습니다. 다음 2턴 동안 카드를 통해 방어도를 얻을 수 없습니다. 소멸.",
+      "cost": "0"
+    },
+    "reinforced": {
+      "effect": "방어도를 40 얻습니다. 다음 2턴 동안 카드를 통해 방어도를 얻을 수 없습니다. 소멸.",
+      "cost": "0"
+    },
+    "desc": "다음, 다다음 턴을 버리고 이번 턴에 생존할 수 있게 해주는 카드. 연속으로 공격하지 않는 적을 상대할 때 좋으며, 카드를 통한 방어도만 제한되므로 디펙트의 냉기나 아이언클래드의 참호는 정상적으로 작동한다."
+  },
+  {
+    "key": "impatience",
+    "korName": "성급함",
+    "engName": "Impatience",
+    "rarity": "uncommon",
+    "type": "skill",
+    "normal": {
+      "effect": "만약 손에 공격 카드가 없다면, 카드를 2장 뽑습니다",
+      "cost": "0"
+    },
+    "reinforced": {
+      "effect": "만약 손에 공격 카드가 없다면, 카드를 3장 뽑습니다",
+      "cost": "0"
+    },
+    "desc": "에너지가 남는 덱에 사용하기 좋은 카드. 킬각을 더 쉽게 잴 수 있게 해준다."
+  },
+  {
+    "key": "purity",
+    "korName": "순수",
+    "engName": "Purity",
+    "rarity": "uncommon",
+    "type": "skill",
+    "normal": {
+      "effect": "손에 있는 카드 중 최대 3장을 선택해 소멸 시킵니다. 소멸",
+      "cost": "0"
+    },
+    "reinforced": {
+      "effect": "손에 있는 카드 중 최대 5장을 선택해 소멸 시킵니다. 소멸",
+      "cost": "0"
+    },
+    "desc": "덱의 쓸모없는 카드를 제거하여 덱 사이클링을 도와주는 카드지만, 쓸모없는 카드와 같이 잡혀야하며, 이 때 최소 두 장의 드로우 손해를 보기 때문에 사용하기 어렵다. 소멸시키는 카드의 수는 한도 내에서 자유롭게 선택할 수 있다."
+  },
+  {
+    "key": "blind",
+    "korName": "실명",
+    "engName": "Blind",
+    "rarity": "uncommon",
+    "type": "skill",
+    "normal": {
+      "effect": "약화를 2 부여합니다.",
+      "cost": "0"
+    },
+    "reinforced": {
+      "effect": "적 전체에게 약화를 2 부여합니다.",
+      "cost": "0"
+    },
+    "desc": "무력화의 하위호환이 되기 쉬운카드. 아이언클래드의 경우 약화를 거는 카드가 적으므로 고를 가치가 있긴하다."
+  },
+  {
+    "key": "deep-breath",
+    "korName": "심호흡",
+    "engName": "Deep Breath",
+    "rarity": "uncommon",
+    "type": "skill",
+    "normal": {
+      "effect": "버린 카드 더미를 뽑을 카드 더미에 넣고 섞습니다. 카드를 1장 뽑습니다.",
+      "cost": "0"
+    },
+    "reinforced": {
+      "effect": "버린 카드 더미를 뽑을 카드 더미에 넣고 섞습니다. 카드를 2장 뽑습니다.",
+      "cost": "0"
+    },
+    "desc": "딱히 전략적으로 사용하지 않더라도, 강화 시 0코스트에 카드 1장 이득을 주는데다 소멸도 아니므로 그낭 좋다. 해시계를 가진 채로 사용하면 어째서인지 2스택이 쌓인다."
+  },
+  {
+    "key": "dark-shackles",
+    "korName": "어둠의 족쇄",
+    "engName": "Dark Shackles",
+    "rarity": "uncommon",
+    "type": "skill",
+    "normal": {
+      "effect": "이번 턴에만 힘을 9 감소시킵니다. 소멸",
+      "cost": "0"
+    },
+    "reinforced": {
+      "effect": "이번 턴에만 힘을 15 감소시킵니다. 소멸",
+      "cost": "0"
+    },
+    "desc": "이번 턴 적 공격력을 아주 큰 폭으로 감소시키는 버티기용 카드. 연타로 공격하는 적에게 더욱 효과적이다."
+  },
+  {
+    "key": "good-instincts",
+    "korName": "직감",
+    "engName": "Good Instincts",
+    "rarity": "uncommon",
+    "type": "skill",
+    "normal": {
+      "effect": "방어도를 5 얻습니다.",
+      "cost": "0"
+    },
+    "reinforced": {
+      "effect": "방어도를 8 얻습니다.",
+      "cost": "0"
+    },
+    "desc": "얻을 수 있는 방어도 양이 미묘해서 쓰기 애매한 카드."
+  },
+  {
+    "key": "jack-of-all-trades",
+    "korName": "팔방미인",
+    "engName": "Jack Of All Trades",
+    "rarity": "uncommon",
+    "type": "skill",
+    "normal": {
+      "effect": "무작위 무색 카드를 1장 얻습니다. 소멸",
+      "cost": "0"
+    },
+    "reinforced": {
+      "effect": "무작위 무색 카드를 2장 얻습니다. 소멸",
+      "cost": "0"
+    },
+    "desc": "당연하게도 이 카드도 무색 카드이기 때문에 팔방미인을 사용해 팔방미인을 뽑을 수도 있다."
+  },
+  {
+    "key": "trip",
+    "korName": "헛디딤",
+    "engName": "Trip",
+    "rarity": "uncommon",
+    "type": "skill",
+    "normal": {
+      "effect": "취약을 2 부여합니다.",
+      "cost": "0"
+    },
+    "reinforced": {
+      "effect": "적 전체에게 취약을 2 부여합니다.",
+      "cost": "0"
+    },
+    "desc": "공포를 가진 사일런트에겐 그다지 쓸모가 없지만, 아이언클래드는 2턴 이상 취약을 부여하는 카드들이 죄다 2코스트의 무거운 카드들 뿐이기에 헛디딤을 섞어 코스트 소모를 줄이는 것이 나쁘지 않다."
+  },
+  {
+    "key": "thinking-ahead",
+    "korName": "미래 예지",
+    "engName": "Thinking Ahead",
+    "rarity": "rare",
+    "type": "skill",
+    "normal": {
+      "effect": "카드를 2장 뽑은 뒤 카드 1장을 뽑을 카드 더미 맨 위에 놓습니다. 소멸",
+      "cost": "0"
+    },
+    "reinforced": {
+      "effect": "카드를 2장 뽑은 뒤 카드 1장을 뽑을 카드 더미 맨 위에 놓습니다. 소멸",
+      "cost": "0"
+    },
+    "desc": "드로우와 동시에 다음 턴을 준비할 수 있다."
+  },
+  {
+    "key": "chrysalis",
+    "korName": "번데기",
+    "engName": "Chrysalis",
+    "rarity": "rare",
+    "type": "skill",
+    "normal": {
+      "effect": "무작위 스킬 카드 3장을 뽑을 카드 더미에 추가합니다. 이번 전투 동안 그 카드들의 비용이 0이 됩니다. 소멸.",
+      "cost": "2"
+    },
+    "reinforced": {
+      "effect": "무작위 스킬 카드 5장을 뽑을 카드 더미에 추가합니다. 이번 전투 동안 그 카드들의 비용이 0이 됩니다. 소멸.",
+      "cost": "2"
+    },
+    "desc": "랜덤이고 사용 후 생성된 카드들을 뽑아와야 한다는 단점이 있지만, 0코스트 카드 다섯 장을 덱에 추가한다는 건 큰 이점이다."
+  },
+  {
+    "key": "transmutation",
+    "korName": "변성",
+    "engName": "Transmutation",
+    "rarity": "rare",
+    "type": "skill",
+    "normal": {
+      "effect": "무작위 무색 카드를 X장 얻습니다. 이번 턴 동안 그 카드들의 비용이 0 이 됩니다. 소멸",
+      "cost": "X"
+    },
+    "reinforced": {
+      "effect": "강화된 무작위 무색 카드를 X장 얻습니다. 이번 턴 동안 그 카드들의 비용이 0 이 됩니다. 소멸",
+      "cost": "X"
+    },
+    "desc": "모든 것을 운에 걸어야 하는 극단적인 카드. 덱과 맞지 않는 카드가 나온다면 쓰기 힘들며, 코스트를 전부 소모한다는 점이 부담되는 카드이다."
+  },
+  {
+    "key": "secret-technique",
+    "korName": "비밀 기술",
+    "engName": "Secret Technique",
+    "rarity": "rare",
+    "type": "skill",
+    "normal": {
+      "effect": "뽑을 카드 더미에서 스킬 카드를 1장 가져옵니다. 소멸",
+      "cost": "0"
+    },
+    "reinforced": {
+      "effect": "뽑을 카드 더미에서 스킬 카드를 1장 가져옵니다. 소멸",
+      "cost": "0"
+    },
+    "desc": "덱에서 원하는 스킬카드를 가져올 수 있게 해주는 좋은 카드. 특히 신성을 가져올 때 좋다. 다만 비밀 병기도 그렇지만 뽑을 카드가 한 장도 없는 경우에는 사용 자체를 할 수 없으니 격돌 전사 등을 굴린다면 주의할 것."
+  },
+  {
+    "key": "secret-weapon",
+    "korName": "비밀 병기",
+    "engName": "Secret Weapon",
+    "rarity": "rare",
+    "type": "skill",
+    "normal": {
+      "effect": "뽑을 카드 더미에서 공격 카드를 1장 선택해 가져옵니다. 소멸",
+      "cost": "0"
+    },
+    "reinforced": {
+      "effect": "뽑을 카드 더미에서 공격 카드를 1장 선택해 가져옵니다. 소멸",
+      "cost": "0"
+    },
+    "desc": "덱에서 원하는 공격카드를 가져올 수 있게 해주는 좋은 카드. 0코스트로 원하는 공격 카드를 가져올 수 있다는 것은 큰 이점이다. 비밀 기술과 마찬가지로 뽑을 카드가 한 장도 없는 경우에는 사용 자체를 할 수 없으니 격돌 전사 등을 굴린다면 주의할 것."
+  },
+  {
+    "key": "apotheosis",
+    "korName": "신성",
+    "engName": "Apotheosis",
+    "rarity": "rare",
+    "type": "skill",
+    "normal": {
+      "effect": "전투가 끝날 때까지 모든 카드를 강화합니다. 소멸",
+      "cost": "2"
+    },
+    "reinforced": {
+      "effect": "전투가 끝날 때까지 모든 카드를 강화합니다. 소멸",
+      "cost": "1"
+    },
+    "desc": "신성을 찾는 데 필요한 서치 카드를 제외하면 캠프에서 더 이상 카드를 강화할 필요가 없어지므로 평화의 담뱃대, 케틀벨, 삽과 같이 캠프에서 쓸 수 있는 유물을 더 자주 활용할 수 있게 해준다. 병 속의 번개와의 조합이 가히 환상적. 신성을 사용한 이후 생성된 카드들에는 신성의 효과가 적용되지 않는다. 사용 시점에서 패, 버려진 카드 더미, 뽑을 카드 더미에 있는 카드를 모두 강화하는 효과이다."
+  },
+  {
+    "key": "master-of-strategy",
+    "korName": "전략의 천재",
+    "engName": "Master of Strategy",
+    "rarity": "rare",
+    "type": "skill",
+    "normal": {
+      "effect": "카드를 3장 뽑습니다. 소멸",
+      "cost": "0"
+    },
+    "reinforced": {
+      "effect": "카드를 4장 뽑습니다. 소멸",
+      "cost": "0"
+    },
+    "desc": "0코스트로 2장의 카드이득을 볼 수 있게 해주는 사기카드. 어떤 덱에든 넣을 수 있다."
+  },
+  {
+    "key": "metamorphosis",
+    "korName": "탈바꿈",
+    "engName": "Metamorphosis",
+    "rarity": "rare",
+    "type": "skill",
+    "normal": {
+      "effect": "무작위 공격 카드 3장을 뽑을 카드 더미에 추가합니다. 이번 전투 동안 그 카드들의 비용이 0이 됩니다. 소멸.",
+      "cost": "2"
+    },
+    "reinforced": {
+      "effect": "무작위 공격 카드 5장을 뽑을 카드 더미에 추가합니다. 이번 전투 동안 그 카드들의 비용이 0이 됩니다. 소멸.",
+      "cost": "2"
+    },
+    "desc": "랜덤이고 사용 후 생성된 카드들을 뽑아와야 한다는 단점이 있지만, 0코스트 카드 다섯 장을 덱에 추가한다는 건 큰 이점이다."
+  },
+  {
+    "key": "violence",
+    "korName": "폭력",
+    "engName": "Violence",
+    "rarity": "rare",
+    "type": "skill",
+    "normal": {
+      "effect": "뽑을 카드 더미에 존재하는 무작위 공격 카드 3장을 손으로 가져옵니다. 소멸",
+      "cost": "0"
+    },
+    "reinforced": {
+      "effect": "뽑을 카드 더미에 존재하는 무작위 공격 카드 4장을 손으로 가져옵니다. 소멸",
+      "cost": "0"
+    },
+    "desc": "막강한 능력의 서치 카드. 공격 카드를 3(4)장이나 뽑아올 수 있다는 건 가치가 크다."
+  },
+  {
+    "key": "the-bomb",
+    "korName": "폭탄",
+    "engName": "The Bomb",
+    "rarity": "rare",
+    "type": "skill",
+    "normal": {
+      "effect": "3턴 후 턴 종료 시, 적 전체에게 피해를 36 줍니다.",
+      "cost": "2"
+    },
+    "reinforced": {
+      "effect": "3턴 후 턴 종료 시, 적 전체에게 피해를 40 줍니다.",
+      "cost": "2"
+    },
+    "desc": ""
+  },
+  {
+    "key": "sadistic-nature",
+    "korName": "가학적 본성",
+    "engName": "Sadistic Nature",
+    "rarity": "rare",
+    "type": "power",
+    "normal": {
+      "effect": "적에게 부정적인 효과를 부여할 때마다 피해를 3 줍니다.",
+      "cost": "0"
+    },
+    "reinforced": {
+      "effect": "적에게 부정적인 효과를 부여할 때마다 피해를 4 줍니다.",
+      "cost": "0"
+    },
+    "desc": "독도적에게 매우 좋다. 그 외의 덱에도 상태이상을 많이 거는 덱이라면 집을만 하다."
+  },
+  {
+    "key": "mayhem",
+    "korName": "대혼란",
+    "engName": "Mayhem",
+    "rarity": "rare",
+    "type": "power",
+    "normal": {
+      "effect": "턴 시작 시, 뽑을 카드 더미 맨 위의 카드를 사용합니다.",
+      "cost": "2"
+    },
+    "reinforced": {
+      "effect": "턴 시작 시, 뽑을 카드 더미 맨 위의 카드를 사용합니다.",
+      "cost": "1"
+    },
+    "desc": "파괴의 파워 카드 버전. 덱의 화력을 한층 올려준다."
+  },
+  {
+    "key": "panache",
+    "korName": "위풍당당",
+    "engName": "Panache",
+    "rarity": "rare",
+    "type": "power",
+    "normal": {
+      "effect": "한 턴에 5장의 카드를 사용할 때마다 적 전체에게 피해를 10 줍니다.",
+      "cost": "0"
+    },
+    "reinforced": {
+      "effect": "한 턴에 5장의 카드를 사용할 때마다 적 전체에게 피해를 14 줍니다.",
+      "cost": "0"
+    },
+    "desc": "카드를 난사하게 되는 덱과 잘 맞는 카드. 단도 덱에서 채용하면 좋다."
+  }
+]

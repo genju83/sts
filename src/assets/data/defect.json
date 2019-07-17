@@ -1,0 +1,1170 @@
+[
+  {
+    "key": "sweeping-beam",
+    "korName": "광선 휩쓸기",
+    "engName": "Sweeping Beam",
+    "rarity": "common",
+    "type": "attack",
+    "normal": {
+      "effect": "적 전체에게 피해를 6 줍니다. 카드를 1장 뽑습니다.",
+      "cost": "1"
+    },
+    "reinforced": {
+      "effect": "적 전체에게 피해를 9 줍니다. 카드를 1장 뽑습니다.",
+      "cost": "1"
+    },
+    "desc": "전체 광역 데미지를 주고 드로우도 할 수 있는 좋은 카드."
+  },
+  {
+    "key": "cold-snap",
+    "korName": "꽃샘추위",
+    "engName": "Cold Snap",
+    "rarity": "common",
+    "type": "attack",
+    "normal": {
+      "effect": "피해를 6 줍니다. 냉기를 1번 영창합니다.",
+      "cost": "1"
+    },
+    "reinforced": {
+      "effect": "피해를 9 줍니다. 냉기를 1번 영창합니다.",
+      "cost": "1"
+    },
+    "desc": "냉기 덱 초반 기본이 되는 카드이다. 데미지를 넣으며 소소한 방어도도 챙길 수 있다."
+  },
+  {
+    "key": "go-for-the-eyes",
+    "korName": "눈 할퀴기",
+    "engName": "Go for the Eyes",
+    "rarity": "common",
+    "type": "attack",
+    "normal": {
+      "effect": "피해를 3 줍니다. 적이 공격할 의도가 있다면 약화를 1 부여합니다.",
+      "cost": "0"
+    },
+    "reinforced": {
+      "effect": "피해를 4 줍니다. 적이 공격할 의도가 있다면 약화를 2 부여합니다.",
+      "cost": "0"
+    },
+    "desc": "성능 자체는 사일런트의 무력화 하위호환이지만 자신의 유물이 룬 반구라면 이 카드를 이용해 상대가 어떤 행동을 할지 알 수 있기에 유용하다."
+  },
+  {
+    "key": "rebound",
+    "korName": "되돌리기",
+    "engName": "Rebound",
+    "rarity": "common",
+    "type": "attack",
+    "normal": {
+      "effect": "피해를 9 줍니다. 이번 턴에 사용하는 다음 카드를 뽑을 카드 더미의 맨 위에 놓습니다.",
+      "cost": "1"
+    },
+    "reinforced": {
+      "effect": "피해를 12 줍니다. 이번 턴에 사용하는 다음 카드를 뽑을 카드 더미의 맨 위에 놓습니다.",
+      "cost": "1"
+    },
+    "desc": "키가 되는 카드를 여러 번 써야하는 덱일 때에 채용할 만한 카드. 아이언클래드의 박치기와 마찬가지로 덱 순환을 느리게 만들기도 한다."
+  },
+  {
+    "key": "beam-cell",
+    "korName": "레이저 포인터",
+    "engName": "Beam Cell",
+    "rarity": "common",
+    "type": "attack",
+    "normal": {
+      "effect": "피해를 3 주고 취약을 1 부여합니다.",
+      "cost": "0"
+    },
+    "reinforced": {
+      "effect": "피해를 4 주고 취약을 2 부여합니다.",
+      "cost": "0"
+    },
+    "desc": "디펙트는 직접 딜을 넣는 경우가 적어서 좀 아쉬운 편이지만 0코스트로 데미지를 넣으며 디버프를 가할 수 있다는 점은 충분히 좋다. 하나를 위한 모두를 넣은 덱에선 항상 활약하며, 찢기나 파괴광선과도 궁합이 좋다. 특별히 좋은 카드가 나오지 않았다면 별 생각없이 항상 집어올수 있는 카드."
+  },
+  {
+    "key": "ball-lightning",
+    "korName": "번개 구체",
+    "engName": "Ball Lightning",
+    "rarity": "common",
+    "type": "attack",
+    "normal": {
+      "effect": "피해를 7 줍니다. 전기를 1번 영창합니다.",
+      "cost": "1"
+    },
+    "reinforced": {
+      "effect": "피해를 10 줍니다. 전기를 1번 영창합니다.",
+      "cost": "1"
+    },
+    "desc": "일반 카드치고는 최소 10, 강화 시 14의 비교적 강한 데미지를 줄 수 있는 카드."
+  },
+  {
+    "key": "barrage",
+    "korName": "일제 사격",
+    "engName": "Barrage",
+    "rarity": "common",
+    "type": "attack",
+    "normal": {
+      "effect": "영창된 구체 하나당 피해를 4 줍니다.",
+      "cost": "1"
+    },
+    "reinforced": {
+      "effect": "영창된 구체 하나당 피해를 6 줍니다.",
+      "cost": "1"
+    },
+    "desc": "축전기나 투입기등을 통해 구체의 수를 늘렸다면 강력한 공격카드가 된다. 장화를 가지고 있다면 강화하지 않은 상태에서 피해를 5씩 줄 수 있다."
+  },
+  {
+    "key": "streamline",
+    "korName": "최적화",
+    "engName": "Streamline",
+    "rarity": "common",
+    "type": "attack",
+    "normal": {
+      "effect": "피해를 15 줍니다. 이 카드를 사용할 때마다 이번 전투 동안 이 카드의 비용이 1 감소합니다.",
+      "cost": "2"
+    },
+    "reinforced": {
+      "effect": "피해를 20 줍니다. 이 카드를 사용할 때마다 이번 전투 동안 이 카드의 비용이 1 감소합니다.",
+      "cost": "2"
+    },
+    "desc": "세 번 사용해 비용을 0으로 만들면 하나를 위한 모두를 통해 끌어올 수 있지만, 초반 코스트가 2이기 때문에 비교적 사용하기 부담스러운 카드이다."
+  },
+  {
+    "key": "compile-driver",
+    "korName": "컴파일 드라이버",
+    "engName": "Compile Driver",
+    "rarity": "common",
+    "type": "attack",
+    "normal": {
+      "effect": "피해를 7 줍니다. 영창한 구체의 종류 하나당 카드를 1장 뽑습니다.",
+      "cost": "1"
+    },
+    "reinforced": {
+      "effect": "피해를 10 줍니다. 영창한 구체의 종류 하나당 카드를 1장 뽑습니다.",
+      "cost": "1"
+    },
+    "desc": ""
+  },
+  {
+    "key": "claw",
+    "korName": "후벼파기",
+    "engName": "Claw",
+    "rarity": "common",
+    "type": "attack",
+    "normal": {
+      "effect": "피해를 3 줍니다. 이번 전투에서 모든 후벼파기 카드의 피해량이 2 증가합니다.",
+      "cost": "0"
+    },
+    "reinforced": {
+      "effect": "피해를 5 줍니다. 이번 전투에서 모든 후벼파기 카드의 피해량이 2 증가합니다.",
+      "cost": "0"
+    },
+    "desc": "깊은 자상 시너지를 노리는 깊은 자상덱을 시도해볼 수 있다. 긁어내기와의 시너지가 좋은 편."
+  },
+  {
+    "key": "ftl",
+    "korName": "FTL",
+    "engName": "FTL",
+    "rarity": "uncommon",
+    "type": "attack",
+    "normal": {
+      "effect": "피해를 5 줍니다. 만약 이번 턴에 카드를 3장 미만으로 사용했다면 카드를 1장 뽑습니다.",
+      "cost": "0"
+    },
+    "reinforced": {
+      "effect": "피해를 6 줍니다. 만약 이번 턴에 카드를 4장 미만으로 사용했다면 카드를 1장 뽑습니다.",
+      "cost": "0"
+    },
+    "desc": "공격 카드라기 보다는 0코스트 드로우 카드로 쓰인다. 병법서를 집은 게 아니라면 2장 정도는 별 문제없이 채용해도 좋다."
+  },
+  {
+    "key": "scrape",
+    "korName": "긁어내기",
+    "engName": "Scrape",
+    "rarity": "uncommon",
+    "type": "attack",
+    "normal": {
+      "effect": "피해를 7 줍니다. 카드를 3장 뽑습니다. 뽑아온 카드 중 비용이 0이 아닌 카드를 모두 버립니다.",
+      "cost": "1"
+    },
+    "reinforced": {
+      "effect": "피해를 9 줍니다. 카드를 4장 뽑습니다. 뽑아온 카드 중 비용이 0이 아닌 카드를 모두 버립니다.",
+      "cost": "1"
+    },
+    "desc": "덱에 비용이 0인 카드가 많다면 고려해볼만하다. 저주나 상태이상을 미리 걸러내는 데에도 사용할 수 있다. 재구성과 함께 사용하면 높은 효율을 낼 수 있다."
+  },
+  {
+    "key": "rip-and-tear",
+    "korName": "날뛰기",
+    "engName": "Rip and Tear",
+    "rarity": "uncommon",
+    "type": "attack",
+    "normal": {
+      "effect": "무작위 적들에게 피해를 7만큼 2번 줍니다.",
+      "cost": "1"
+    },
+    "reinforced": {
+      "effect": "무작위 적들에게 피해를 9만큼 2번 줍니다.",
+      "cost": "1"
+    },
+    "desc": "적이 한 명만 있다고 따져보면 무려 1코 18딜의 무식한 카드. 레이저 포인터, 파괴광선과 함께 깡딜덱의 주요카드."
+  },
+  {
+    "key": "blizzard",
+    "korName": "눈보라",
+    "engName": "Blizzard",
+    "rarity": "uncommon",
+    "type": "attack",
+    "normal": {
+      "effect": "이번 전투에서 영창된 냉기의 2배만큼 적 전체에게 피해를 줍니다.",
+      "cost": "1"
+    },
+    "reinforced": {
+      "effect": "이번 전투에서 영창된 냉기의 3배만큼 적 전체에게 피해를 줍니다.",
+      "cost": "1"
+    },
+    "desc": "냉기 덱의 핵심 카드. 냉기 덱은 공격 수단이 적어서 냉기 덱의 주요 공격 카드로 사용된다."
+  },
+  {
+    "key": "bullseye",
+    "korName": "명중",
+    "engName": "Bullseye",
+    "rarity": "uncommon",
+    "type": "attack",
+    "normal": {
+      "effect": "피해를 7 줍니다. 조준을 1 부여합니다.",
+      "cost": "1"
+    },
+    "reinforced": {
+      "effect": "피해를 7 줍니다. 조준을 2 부여합니다.",
+      "cost": "1"
+    },
+    "desc": "지속 효과와 발현 효과 둘 다 포함된다. 전격이나 암흑을 주력으로 하는 덱에서 특정한 적에게 딜을 집중하는데 활용할 수 있는 카드."
+  },
+  {
+    "key": "doom-and-gloom",
+    "korName": "암울한 전망",
+    "engName": "Doom and Gloom",
+    "rarity": "uncommon",
+    "type": "attack",
+    "normal": {
+      "effect": "적 전체에게 피해를 10 줍니다. 암흑을 1번 영창합니다.",
+      "cost": "2"
+    },
+    "reinforced": {
+      "effect": "적 전체에게 피해를 14 줍니다. 암흑을 1번 영창합니다.",
+      "cost": "2"
+    },
+    "desc": "광역 피해로만 사용해도 그럭저럭인 성능이지만, 암흑을 함께 영창해준다는 점에서 사용할 만하다."
+  },
+  {
+    "key": "melter",
+    "korName": "용해 장치",
+    "engName": "Melter",
+    "rarity": "uncommon",
+    "type": "attack",
+    "normal": {
+      "effect": "적의 모든 방어도를 없앱니다. 피해를 10 줍니다.",
+      "cost": "1"
+    },
+    "reinforced": {
+      "effect": "적의 모든 방어도를 없앱니다. 피해를 14 줍니다.",
+      "cost": "1"
+    },
+    "desc": "그림에서 보이듯이 구체형 수호기를 잡기 위해 만들어졌다고 봐도 무방한 카드. 이외에도 방어도를 얻는 패턴의 적들에게 사용할 만하다."
+  },
+  {
+    "key": "sunder",
+    "korName": "찢기",
+    "engName": "Sunder",
+    "rarity": "uncommon",
+    "type": "attack",
+    "normal": {
+      "effect": "피해를 24 줍니다. 만약 적이 죽으면 에너지를 3 얻습니다.",
+      "cost": "3"
+    },
+    "reinforced": {
+      "effect": "피해를 32 줍니다. 만약 적이 죽으면 에너지를 3 얻습니다.",
+      "cost": "3"
+    },
+    "desc": "여러 마리의 잡몹들을 처리하기에 좋은 카드."
+  },
+  {
+    "key": "meteor-strike",
+    "korName": "유성 타격",
+    "engName": "Meteor Strike",
+    "rarity": "rare",
+    "type": "attack",
+    "normal": {
+      "effect": "피해를 24 줍니다. 플라즈마를 3번 영창합니다.",
+      "cost": "5"
+    },
+    "reinforced": {
+      "effect": "피해를 30 줍니다. 플라즈마를 3번 영창합니다.",
+      "cost": "5"
+    },
+    "desc": "5코스트라는 점에서 실제 사용하기는 어려워 보이지만, 스네코의 눈 혹은 미라의 손과 연계시 매우 강력한 카드가 된다. 재활용으로 제거해 에너지를 펌핑시키는 플레이도 가능. 다양성 등의 일일 도전 모드에서 완벽한 타격의 피해량을 늘릴 수 있다."
+  },
+  {
+    "key": "thunder-strike",
+    "korName": "전류 타격",
+    "engName": "Thunder Strike",
+    "rarity": "rare",
+    "type": "attack",
+    "normal": {
+      "effect": "이번 전투에서 영창된 전기 하나당 무작위 적에게 피해를 7 줍니다.",
+      "cost": "3"
+    },
+    "reinforced": {
+      "effect": "이번 전투에서 영창된 전기 하나당 무작위 적에게 피해를 9 줍니다.",
+      "cost": "3"
+    },
+    "desc": "전기 덱의 필살기. 강화하지 않아도 전기를 5번 영창하는 것으로 몽둥이질보다 높은 데미지가 나온다."
+  },
+  {
+    "key": "core-surge",
+    "korName": "코어 서지",
+    "engName": "Core Surge",
+    "rarity": "rare",
+    "type": "attack",
+    "normal": {
+      "effect": "피해를 11 줍니다. 인공물을 1 얻습니다. 소멸",
+      "cost": "1"
+    },
+    "reinforced": {
+      "effect": "피해를 15 줍니다. 인공물을 1 얻습니다. 소멸",
+      "cost": "1"
+    },
+    "desc": ""
+  },
+  {
+    "key": "hyperbeam",
+    "korName": "파괴광선",
+    "engName": "Hyperbeam",
+    "rarity": "rare",
+    "type": "attack",
+    "normal": {
+      "effect": "적 전체에게 피해를 26줍니다. 밀집을 3 잃습니다.",
+      "cost": "2"
+    },
+    "reinforced": {
+      "effect": "적 전체에게 피해를 34줍니다. 밀집을 3 잃습니다.",
+      "cost": "2"
+    },
+    "desc": "2단계 스테이지 보스 \u0027청동자동기계\u0027가 쓰는 바로 그 기술. 밀집 3이나 잃기 때문에 구체 효율이 급격하게 하락하지만 대신 압도적인 공격력과 광역 공격이라는 장점이 모든 걸 상쇄해준다. 구체 시너지가 상대적으로 적은 초반에 쓰기 좋으나 후반에 갈 수록 밀집을 떨어트린다는 점 때문에 후반에는 사용하기 까다롭다."
+  },
+  {
+    "key": "all-for-one",
+    "korName": "하나를 위한 모두",
+    "engName": "All For One",
+    "rarity": "rare",
+    "type": "attack",
+    "normal": {
+      "effect": "피해를 10 줍니다. 버린 카드 더미에 있는 비용이 0인 카드를 모두 손으로 가져옵니다.",
+      "cost": "2"
+    },
+    "reinforced": {
+      "effect": "피해를 14 줍니다. 버린 카드 더미에 있는 비용이 0인 카드를 모두 손으로 가져옵니다.",
+      "cost": "2"
+    },
+    "desc": "피해량은 평범하지만 부가 효과가 상당히 좋은 편. 눈 할퀴기와 같은 고효율 카드를 여러 장 집었다면 고려해볼만하다."
+  },
+  {
+    "key": "coolheaded",
+    "korName": "냉정함",
+    "engName": "Coolheaded",
+    "rarity": "common",
+    "type": "skill",
+    "normal": {
+      "effect": "냉기를 1번 영창합니다. 카드를 1장 뽑습니다.",
+      "cost": "1"
+    },
+    "reinforced": {
+      "effect": "냉기를 1번 영창합니다. 카드를 2장 뽑습니다.",
+      "cost": "1"
+    },
+    "desc": "공중제비의 냉기 영창 버젼."
+  },
+  {
+    "key": "leap",
+    "korName": "도약",
+    "engName": "Leap",
+    "rarity": "common",
+    "type": "skill",
+    "normal": {
+      "effect": "방어도를 9 얻습니다.",
+      "cost": "1"
+    },
+    "reinforced": {
+      "effect": "방어도를 12 얻습니다.",
+      "cost": "1"
+    },
+    "desc": "수비의 완전한 상위 호환."
+  },
+  {
+    "key": "charge-battery",
+    "korName": "배터리 충전",
+    "engName": "Charge Battery",
+    "rarity": "common",
+    "type": "skill",
+    "normal": {
+      "effect": "방어도를 8 얻습니다. 다음 턴에 에너지를 1 얻습니다.",
+      "cost": "1"
+    },
+    "reinforced": {
+      "effect": "방어도를 11 얻습니다. 다음 턴에 에너지를 1 얻습니다.",
+      "cost": "1"
+    },
+    "desc": "1코스트로 아이스크림의 효과를 볼 수 있는 카드."
+  },
+  {
+    "key": "stack",
+    "korName": "스택",
+    "engName": "Stack",
+    "rarity": "common",
+    "type": "skill",
+    "normal": {
+      "effect": "버린 카드 더미에 있는 카드의 수만큼 방어도를 얻습니다.",
+      "cost": "1"
+    },
+    "reinforced": {
+      "effect": "버린 카드 더미에 있는 카드의 수에 3을 더한 만큼 방어도를 얻습니다.",
+      "cost": "1"
+    },
+    "desc": "카드가 많은 덱이라면 고려해볼만한 카드. 얻을 수 있는 방어도가 운에 따라 다르므로 크게 추천하지는 않는다."
+  },
+  {
+    "key": "dualcast",
+    "korName": "이중 시전",
+    "engName": "Dualcast",
+    "rarity": "common",
+    "type": "skill",
+    "normal": {
+      "effect": "가장 오른쪽의 구체를 2번 발현합니다.",
+      "cost": "1"
+    },
+    "reinforced": {
+      "effect": "가장 오른쪽의 구체를 2번 발현합니다.",
+      "cost": "0"
+    },
+    "desc": "디펙트의 기본 카드. 초반에는 발동 효과를 사용하기 어려우므로 사용하지만 발동 효과를 쓰기 쉬워지는 후반일 수록 사용하기 애매해진다."
+  },
+  {
+    "key": "recursion",
+    "korName": "재귀",
+    "engName": "Recursion",
+    "rarity": "common",
+    "type": "skill",
+    "normal": {
+      "effect": "가장 오른쪽의 구체를 발현합니다. 발현된 구체를 영창합니다.",
+      "cost": "1"
+    },
+    "reinforced": {
+      "effect": "가장 오른쪽의 구체를 발현합니다. 발현된 구체를 영창합니다.",
+      "cost": "0"
+    },
+    "desc": "해당 카드로 어둠을 발현할 시 어둠 스택이 그대로 쌓인 채로 영창된다."
+  },
+  {
+    "key": "steam-barrier",
+    "korName": "증기 장벽",
+    "engName": "Steam Barrier",
+    "rarity": "common",
+    "type": "skill",
+    "normal": {
+      "effect": "방어도를 6 얻습니다. 사용할 때마다 이 카드의 방어도가 1씩 감소합니다.",
+      "cost": "0"
+    },
+    "reinforced": {
+      "effect": "방어도를 8 얻습니다. 사용할 때마다 이 카드의 방어도가 1씩 감소합니다.",
+      "cost": "0"
+    },
+    "desc": "두 번 사용한 뒤에도 튕겨내기와 같은 효율을 자랑하는 좋은 방어도 카드."
+  },
+  {
+    "key": "turbo",
+    "korName": "터보",
+    "engName": "TURBO",
+    "rarity": "common",
+    "type": "skill",
+    "normal": {
+      "effect": "에너지를 2 얻습니다. 버린 카드 더미에 공허 카드를 섞어 넣습니다.",
+      "cost": "0"
+    },
+    "reinforced": {
+      "effect": "에너지를 3 얻습니다. 버린 카드 더미에 공허 카드를 섞어 넣습니다.",
+      "cost": "0"
+    },
+    "desc": "공허 카드가 덱에 들어가는 건 뼈아프지만 사용한 턴에 바로 마나를 2~3씩 얻을 수 있다는 점에서 가치가 높다."
+  },
+  {
+    "key": "zap",
+    "korName": "파지직",
+    "engName": "Zap",
+    "rarity": "common",
+    "type": "skill",
+    "normal": {
+      "effect": "전기를 1번 영창합니다.",
+      "cost": "1"
+    },
+    "reinforced": {
+      "effect": "전기를 1번 영창합니다.",
+      "cost": "0"
+    },
+    "desc": "디펙트의 기본 카드. 강화하지 않으면 효율이 낮으므로 가장 우선적으로 강화할 필요가 있다."
+  },
+  {
+    "key": "hologram",
+    "korName": "홀로그램",
+    "engName": "Hologram",
+    "rarity": "common",
+    "type": "skill",
+    "normal": {
+      "effect": "방어도를 3 얻습니다. 버린 카드 더미에서 카드 한 장을 손으로 가져옵니다. 소멸",
+      "cost": "1"
+    },
+    "reinforced": {
+      "effect": "방어도를 5 얻습니다. 버린 카드 더미에서 카드 한 장을 손으로 가져옵니다. 소멸",
+      "cost": "1"
+    },
+    "desc": "버린 카드 더미에서 원하는 카드 한 장을 선택해서 가져올 수 있는 좋은 탐색카드. 강화하면 소멸도 하지 않아 사용하기 매우 좋다."
+  },
+  {
+    "key": "reinforced-body",
+    "korName": "강화된 몸체",
+    "engName": "Reinforced Body",
+    "rarity": "uncommon",
+    "type": "skill",
+    "normal": {
+      "effect": "방어도 7을 X번 얻습니다.",
+      "cost": "X"
+    },
+    "reinforced": {
+      "effect": "방어도 9를 X번 얻습니다.",
+      "cost": "X"
+    },
+    "desc": "위급한 상황을 탈출하는 데 큰 도움이 될 수 있는 카드."
+  },
+  {
+    "key": "skim",
+    "korName": "걷어내기",
+    "engName": "Skim",
+    "rarity": "uncommon",
+    "type": "skill",
+    "normal": {
+      "effect": "카드를 3장 뽑습니다.",
+      "cost": "1"
+    },
+    "reinforced": {
+      "effect": "카드를 4장 뽑습니다.",
+      "cost": "1"
+    },
+    "desc": "평범하게 좋은 드로우 카드."
+  },
+  {
+    "key": "tempest",
+    "korName": "뇌우",
+    "engName": "Tempest",
+    "rarity": "uncommon",
+    "type": "skill",
+    "normal": {
+      "effect": "전기를 X번 영창합니다. 소멸",
+      "cost": "X"
+    },
+    "reinforced": {
+      "effect": "전기를 X+1번 영창합니다. 소멸",
+      "cost": "X"
+    },
+    "desc": "전기 타격의 스택 쌓기에 좋다. 에너지와 밀집을 충분히 확보할 수 있으면 자체 화력도 출중한 편. 대신 방어가 취약해지므로 냉기 오브를 잘 활용해야 한다."
+  },
+  {
+    "key": "white-noise",
+    "korName": "백색 소음",
+    "engName": "White Noise",
+    "rarity": "uncommon",
+    "type": "skill",
+    "normal": {
+      "effect": "무작위 파워 카드 1장을 얻습니다. 이번 턴 동안 그 카드의 비용이 0이 됩니다. 소멸",
+      "cost": "1"
+    },
+    "reinforced": {
+      "effect": "무작위 파워 카드 1장을 얻습니다. 이번 턴 동안 그 카드의 비용이 0이 됩니다. 소멸",
+      "cost": "0"
+    },
+    "desc": "파워는 덱 압축에 도움이 되므로 유용하다. 운이 좋아서 메아리의 형상 같은 게 걸리면 감사하면서 써주자."
+  },
+  {
+    "key": "boot-sequence",
+    "korName": "부팅 과정",
+    "engName": "Boot Sequence",
+    "rarity": "uncommon",
+    "type": "skill",
+    "normal": {
+      "effect": "선천성. 방어도를 10 얻습니다. 소멸",
+      "cost": "0"
+    },
+    "reinforced": {
+      "effect": "선천성. 방어도를 13 얻습니다. 소멸",
+      "cost": "0"
+    },
+    "desc": "사실상 닻과 같은 효과의 카드."
+  },
+  {
+    "key": "glacier",
+    "korName": "빙하",
+    "engName": "Glacier",
+    "rarity": "uncommon",
+    "type": "skill",
+    "normal": {
+      "effect": "방어도를 7 얻습니다. 냉기를 2번 영창합니다.",
+      "cost": "2"
+    },
+    "reinforced": {
+      "effect": "방어도를 10 얻습니다. 냉기를 2번 영창합니다.",
+      "cost": "2"
+    },
+    "desc": "방어도 증가량도 높고 냉기를 2번 영창하기 때문에 눈보라의 스택을 쌓는데도 유용하다."
+  },
+  {
+    "key": "consume",
+    "korName": "소비",
+    "engName": "Consume",
+    "rarity": "uncommon",
+    "type": "skill",
+    "normal": {
+      "effect": "밀집을 2 얻습니다. 구체 슬롯을 1개 잃습니다.",
+      "cost": "2"
+    },
+    "reinforced": {
+      "effect": "밀집을 3 얻습니다. 구체 슬롯을 1개 잃습니다.",
+      "cost": "2"
+    },
+    "desc": "구체 슬롯을 줄이는 대신 남은 구체들을 고효율로 만들어주는 카드. 밀집을 3씩이나 얻을 수 있다는 건 매우 강력하다. 투입기등과 함께 사용해 밀집을 얻으며 구체 슬롯도 여럿인 상태로 사용할 수도 있다."
+  },
+  {
+    "key": "darkness",
+    "korName": "어둠",
+    "engName": "Darkness",
+    "rarity": "uncommon",
+    "type": "skill",
+    "normal": {
+      "effect": "암흑을 1번 영창합니다.",
+      "cost": "1"
+    },
+    "reinforced": {
+      "effect": "암흑을 1번 영창합니다. 모든 암흑 구체의 지속 효과를 발동합니다.",
+      "cost": "1"
+    },
+    "desc": "기본적인 암흑 영창 카드."
+  },
+  {
+    "key": "double-energy",
+    "korName": "에너자이저",
+    "engName": "Double Energy",
+    "rarity": "uncommon",
+    "type": "skill",
+    "normal": {
+      "effect": "에너지를 두 배로 만듭니다. 소멸",
+      "cost": "1"
+    },
+    "reinforced": {
+      "effect": "에너지를 두 배로 만듭니다. 소멸",
+      "cost": "0"
+    },
+    "desc": "에너지를 펌핑하는 카드가 많은 디펙트의 카드들 중에서도 단연 높은 효율을 자랑하는 카드. X번 영창하는 뇌우등과 함께 사용하면 좋다."
+  },
+  {
+    "key": "force-field",
+    "korName": "역장",
+    "engName": "Force Field",
+    "rarity": "uncommon",
+    "type": "skill",
+    "normal": {
+      "effect": "이번 전투에 사용된 파워 카드 한장당 에너지 소모가 1 감소합니다. 방어도를 12 얻습니다.",
+      "cost": "4"
+    },
+    "reinforced": {
+      "effect": "이번 전투에 사용된 파워 카드 한장당 에너지 소모가 1 감소합니다. 방어도를 16 얻습니다.",
+      "cost": "4"
+    },
+    "desc": "파워 카드가 많은 덱에서 사용하면 좋지만, 파워를 거의 쓰지 못한 초반에 집을 경우 사실상 1드로우를 낭비하는 셈이 된다."
+  },
+  {
+    "key": "overclock",
+    "korName": "오버클럭",
+    "engName": "Overclock",
+    "rarity": "uncommon",
+    "type": "skill",
+    "normal": {
+      "effect": "카드를 2장 뽑습니다. 화상 카드를 버린 카드 더미에 넣습니다.",
+      "cost": "0"
+    },
+    "reinforced": {
+      "effect": "카드를 3장 뽑습니다. 화상 카드를 버린 카드 더미에 넣습니다.",
+      "cost": "0"
+    },
+    "desc": "터보와 비슷하게 이번 턴을 챙기고 다음 턴을 희생하는 카드."
+  },
+  {
+    "key": "chill",
+    "korName": "오한",
+    "engName": "Chill",
+    "rarity": "uncommon",
+    "type": "skill",
+    "normal": {
+      "effect": "전투 중인 적 하나당 냉기를 1번 영창합니다. 소멸",
+      "cost": "0"
+    },
+    "reinforced": {
+      "effect": "선천성 전투 중인 적 하나당 냉기를 1번 영창합니다. 소멸",
+      "cost": "0"
+    },
+    "desc": "다수의 적을 상대할 때 효율이 높다. 소수의 적을 상대할 때도 에너지 소모 없이 냉기를 영창 할 수 있으므로 밥값은 하는 편."
+  },
+  {
+    "key": "genetic-algorithm",
+    "korName": "유전 알고리즘",
+    "engName": "Genetic Algorithm",
+    "rarity": "uncommon",
+    "type": "skill",
+    "normal": {
+      "effect": "방어도를 1 얻습니다. 카드를 사용하면 이 카드의 방어도를 영구적으로 2 증가시킵니다. 소멸",
+      "cost": "1"
+    },
+    "reinforced": {
+      "effect": "방어도를 1 얻습니다. 카드를 사용하면 이 카드의 방어도를 영구적으로 3 증가시킵니다. 소멸",
+      "cost": "1"
+    },
+    "desc": "초반에는 미미하지만 후에 갈수록 높은 효율을 자랑하는 카드. 게임 초기에 얻을수록 이득이다. 꾸준히 사용해 방어도를 올려두면 저 편에 갈쯤엔 몇 십에 해당하는 방어도를 1 코스트로 얻을 수 있게 해준다."
+  },
+  {
+    "key": "fusion",
+    "korName": "융합",
+    "engName": "Fusion",
+    "rarity": "uncommon",
+    "type": "skill",
+    "normal": {
+      "effect": "플라즈마를 1번 영창합니다.",
+      "cost": "2"
+    },
+    "reinforced": {
+      "effect": "플라즈마를 1번 영창합니다.",
+      "cost": "1"
+    },
+    "desc": "사실상 다음 턴을 노리기 위한 카드."
+  },
+  {
+    "key": "auto-shields",
+    "korName": "자동 방패",
+    "engName": "Auto-Shields",
+    "rarity": "uncommon",
+    "type": "skill",
+    "normal": {
+      "effect": "방어도가 0이면, 11 방어도를 얻습니다.",
+      "cost": "1"
+    },
+    "reinforced": {
+      "effect": "방어도가 0이면, 15 방어도를 얻습니다.",
+      "cost": "1"
+    },
+    "desc": "사용 조건이 붙어있긴 하지만, 위급 상황에 큰 도움이 되는 카드. 코스트 대비 높은 방어도를 얻을 수 있다."
+  },
+  {
+    "key": "reprogram",
+    "korName": "재구성",
+    "engName": "Reprogram",
+    "rarity": "uncommon",
+    "type": "skill",
+    "normal": {
+      "effect": "뽑을 카드 더미 위의 카드 4장을 봅니다. 그 중에서 원하는 만큼 카드를 버립니다.",
+      "cost": "0"
+    },
+    "reinforced": {
+      "effect": "뽑을 카드 더미 위의 카드 6장을 봅니다. 그 중에서 원하는 만큼 카드를 버립니다.",
+      "cost": "0"
+    },
+    "desc": "얼어붙은 눈의 열화판. 저주나 상태이상을 미리 거를 수도 있고, 필요없는 카드를 버릴 수도 있다."
+  },
+  {
+    "key": "recycle",
+    "korName": "재활용",
+    "engName": "Recycle",
+    "rarity": "uncommon",
+    "type": "skill",
+    "normal": {
+      "effect": "카드를 1장 소멸시킵니다. 그 카드의 비용만큼 에너지를 얻습니다.",
+      "cost": "1"
+    },
+    "reinforced": {
+      "effect": "카드를 1장 소멸시킵니다. 그 카드의 비용만큼 에너지를 얻습니다.",
+      "cost": "0"
+    },
+    "desc": "아주 높은 효율로 에너지를 펌핑할 수 있는 카드. 에너지 펌핑이 아니더라도 저주나 상태이상을 제거시킬 수도 있다. 운석 강타를 갈아 5코스트를 한 번에 얻는 용도로도 사용할 수 있다."
+  },
+  {
+    "key": "equilibrium",
+    "korName": "평형",
+    "engName": "Equilibrium",
+    "rarity": "uncommon",
+    "type": "skill",
+    "normal": {
+      "effect": "방어도를 13 얻습니다. 이번 턴 종료 시 카드를 버리지 않습니다.",
+      "cost": "2"
+    },
+    "reinforced": {
+      "effect": "방어도를 16 얻습니다. 이번 턴 종료 시 카드를 버리지 않습니다.",
+      "cost": "2"
+    },
+    "desc": "모든 카드를 보존할 수 있는 카드."
+  },
+  {
+    "key": "aggregate",
+    "korName": "합하기",
+    "engName": "Aggregate",
+    "rarity": "uncommon",
+    "type": "skill",
+    "normal": {
+      "effect": "뽑을 카드 더미에 있는 카드 6장당 에너지를 얻습니다.",
+      "cost": "1"
+    },
+    "reinforced": {
+      "effect": "뽑을 카드 더미에 있는 카드 5장당 에너지를 얻습니다.",
+      "cost": "1"
+    },
+    "desc": "덱 수가 엄청나게 많지 않은 이상 큰 이득을 보긴 어려운 카드."
+  },
+  {
+    "key": "chaos",
+    "korName": "혼돈",
+    "engName": "Chaos",
+    "rarity": "uncommon",
+    "type": "skill",
+    "normal": {
+      "effect": "무작위 구체를 1번 영창합니다.",
+      "cost": "1"
+    },
+    "reinforced": {
+      "effect": "무작위 구체를 2번 영창합니다.",
+      "cost": "1"
+    },
+    "desc": "무작위로 영창하는 대신 영창 효율을 챙긴 카드. 영창되는 구체들엔 당연히 플라즈마도 포함되므로 예상 외의 변수를 만드는데 좋다."
+  },
+  {
+    "key": "reboot",
+    "korName": "다시 시작",
+    "engName": "Reboot",
+    "rarity": "rare",
+    "type": "skill",
+    "normal": {
+      "effect": "모든 카드를 뽑을 카드 더미에 섞어 넣습니다. 카드를 4장 뽑습니다. 소멸",
+      "cost": "0"
+    },
+    "reinforced": {
+      "effect": "모든 카드를 뽑을 카드 더미에 섞어 넣습니다. 카드를 6장 뽑습니다. 소멸",
+      "cost": "0"
+    },
+    "desc": "역대급 효율의 드로우 카드. 소멸이라는 점은 아쉽지만 그걸 감안하고도 집을만하다. 계산된 도박의 상위호환이라고도 할 수 있다."
+  },
+  {
+    "key": "multi-cast",
+    "korName": "다중 시전",
+    "engName": "Multi-Cast",
+    "rarity": "rare",
+    "type": "skill",
+    "normal": {
+      "effect": "가장 오른쪽의 구체를 X번 발현합니다.",
+      "cost": "X"
+    },
+    "reinforced": {
+      "effect": "가장 오른쪽의 구체를 X+1번 발현합니다.",
+      "cost": "X"
+    },
+    "desc": "어둠을 발현하는 데에 사용하면 좋다."
+  },
+  {
+    "key": "rainbow",
+    "korName": "무지개",
+    "engName": "Rainbow",
+    "rarity": "rare",
+    "type": "skill",
+    "normal": {
+      "effect": "전기를 1번, 냉기를 1번, 암흑을 1번 영창합니다. 소멸",
+      "cost": "2"
+    },
+    "reinforced": {
+      "effect": "전기를 1번, 냉기를 1번, 암흑을 1번 영창합니다. 소멸",
+      "cost": "2"
+    },
+    "desc": "종합 선물 세트."
+  },
+  {
+    "key": "amplify",
+    "korName": "증폭",
+    "engName": "Amplify",
+    "rarity": "rare",
+    "type": "skill",
+    "normal": {
+      "effect": "이번 턴에 사용하는 다음 파워 카드가 두 번 사용됩니다.",
+      "cost": "1"
+    },
+    "reinforced": {
+      "effect": "이번 턴에 사용하는 다음 파워 카드 두 장이 두 번 사용됩니다.",
+      "cost": "1"
+    },
+    "desc": "없음."
+  },
+  {
+    "key": "seek",
+    "korName": "탐색",
+    "engName": "Seek",
+    "rarity": "rare",
+    "type": "skill",
+    "normal": {
+      "effect": "뽑을 카드 더미에서 카드 1장을 골라 손으로 가져옵니다. 소멸",
+      "cost": "0"
+    },
+    "reinforced": {
+      "effect": "뽑을 카드 더미에서 카드 2장을 골라 손으로 가져옵니다. 소멸",
+      "cost": "0"
+    },
+    "desc": "비용 0으로 원하는 카드를 뽑을 카드 더미에서 1~2장이나 서치해 올 수 있는 초강력 카드. 콤보 위주의 덱에서 키 카드를 가져오는 용도로도 좋고. 그냥 드로우 수단으로 가치가 높다."
+  },
+  {
+    "key": "fission",
+    "korName": "핵분열",
+    "engName": "Fission",
+    "rarity": "rare",
+    "type": "skill",
+    "normal": {
+      "effect": "모든 구체를 제거한 후, 제거된 구체 하나당 에너지를 1 얻고 카드를 1장 뽑습니다. 소멸",
+      "cost": "0"
+    },
+    "reinforced": {
+      "effect": "모든 구체를 발현한 후, 발현된 구체 하나당 에너지를 1 얻고 카드를 1장 뽑습니다. 소멸",
+      "cost": "0"
+    },
+    "desc": "없음."
+  },
+  {
+    "key": "hello-world",
+    "korName": "Hello World",
+    "engName": "Hello World",
+    "rarity": "uncommon",
+    "type": "power",
+    "normal": {
+      "effect": "턴 시작 시 무작위 일반 카드를 1장 얻습니다.",
+      "cost": "1"
+    },
+    "reinforced": {
+      "effect": "선천성 턴 시작 시 무작위 일반 카드를 1장 얻습니다.",
+      "cost": "1"
+    },
+    "desc": "디펙트의 다른 파워들에 비해선 상대적으로 좋지 않은 효과를 지닌 카드. 무작위 + 일반 카드라는 점으로 인해 덱에 맞지 않는 카드가 들어와 덱이 꼬일 가능성이 크다. 창의적인 인공지능으로 뽑히면 난감한 카드 중 하나."
+  },
+  {
+    "key": "loop",
+    "korName": "반복",
+    "engName": "Loop",
+    "rarity": "uncommon",
+    "type": "power",
+    "normal": {
+      "effect": "턴 시작 시 가장 오른쪽 구체의 지속 효과를 발동시킵니다.",
+      "cost": "1"
+    },
+    "reinforced": {
+      "effect": "턴 시작 시 가장 오른쪽 구체의 지속 효과를 2번 발동시킵니다.",
+      "cost": "1"
+    },
+    "desc": "어둠 덱에서 채용해 빠르게 스택을 쌓을 수도 있고, 얼음 덱에서 모자란 방어도를 보충하는 데에 사용할 수도 있는 좋은 파워 카드. 사실상 구체의 수를 늘려주는 것이나 다름 없기도 하다."
+  },
+  {
+    "key": "heatsinks",
+    "korName": "방열판",
+    "engName": "Heatsinks",
+    "rarity": "uncommon",
+    "type": "power",
+    "normal": {
+      "effect": "파워 카드를 낼 때마다 카드를 1장 뽑습니다.",
+      "cost": "1"
+    },
+    "reinforced": {
+      "effect": "파워 카드를 낼 때마다 카드를 2장 뽑습니다.",
+      "cost": "1"
+    },
+    "desc": "파워 카드를 주로 쓰는 덱에서 덱 순환을 가속시켜주는 카드."
+  },
+  {
+    "key": "self-repair",
+    "korName": "자가 수리",
+    "engName": "Self Repair",
+    "rarity": "uncommon",
+    "type": "power",
+    "normal": {
+      "effect": "전투 종료 시 체력을 7 회복합니다.",
+      "cost": "1"
+    },
+    "reinforced": {
+      "effect": "전투 종료 시 체력을 10 회복합니다.",
+      "cost": "1"
+    },
+    "desc": "불타는 혈액과 유사한 효과를 낼 수 있는 좋은 파워 카드."
+  },
+  {
+    "key": "static-discharge",
+    "korName": "정전기 방전",
+    "engName": "Static Discharge",
+    "rarity": "uncommon",
+    "type": "power",
+    "normal": {
+      "effect": "공격 피해를 받을 때마다 전기를 1번 영창합니다.",
+      "cost": "1"
+    },
+    "reinforced": {
+      "effect": "공격 피해를 받을 때마다 전기를 2번 영창합니다.",
+      "cost": "1"
+    },
+    "desc": "여러 장 집었을 때나 연타 공격을 해오는 적에게 효율이 아주 높다."
+  },
+  {
+    "key": "defragment",
+    "korName": "조각모음",
+    "engName": "Defragment",
+    "rarity": "uncommon",
+    "type": "power",
+    "normal": {
+      "effect": "밀집을 1 얻습니다.",
+      "cost": "1"
+    },
+    "reinforced": {
+      "effect": "밀집을 2 얻습니다.",
+      "cost": "1"
+    },
+    "desc": "어떤 덱에 넣어도 효율이 좋지만 강화하지 않으면 효율이 떨어지므로 가급적 강화하는 편이 좋은 편."
+  },
+  {
+    "key": "capacitor",
+    "korName": "축전기",
+    "engName": "Capacitor",
+    "rarity": "uncommon",
+    "type": "power",
+    "normal": {
+      "effect": "구체 슬롯 2개를 얻습니다.",
+      "cost": "1"
+    },
+    "reinforced": {
+      "effect": "구체 슬롯 3개를 얻습니다.",
+      "cost": "1"
+    },
+    "desc": "유일한 일반 등급 파워 카드."
+  },
+  {
+    "key": "strom",
+    "korName": "폭풍",
+    "engName": "Strom",
+    "rarity": "uncommon",
+    "type": "power",
+    "normal": {
+      "effect": "파워 카드를 사용할 때마다 전기를 1번 영창합니다.",
+      "cost": "1"
+    },
+    "reinforced": {
+      "effect": "선천성 파워 카드를 사용할 때마다 전기를 1번 영창합니다.",
+      "cost": "1"
+    },
+    "desc": "없음."
+  },
+  {
+    "key": "machine-learning",
+    "korName": "기계학습",
+    "engName": "Machine Learning",
+    "rarity": "rare",
+    "type": "power",
+    "normal": {
+      "effect": "턴 시작 시 카드를 1장 더 뽑습니다.",
+      "cost": "1"
+    },
+    "reinforced": {
+      "effect": "선천성 턴 시작 시 카드를 1장 더 뽑습니다.",
+      "cost": "1"
+    },
+    "desc": "없음."
+  },
+  {
+    "key": "echo-form",
+    "korName": "메아리의 형상",
+    "engName": "Echo Form",
+    "rarity": "rare",
+    "type": "power",
+    "normal": {
+      "effect": "매 턴 처음 사용하는 카드가 두 번 사용됩니다. 휘발성",
+      "cost": "3"
+    },
+    "reinforced": {
+      "effect": "매 턴 처음 사용하는 카드가 두 번 사용됩니다. 휘발성",
+      "cost": "3"
+    },
+    "desc": "그 강력한 네크로노미콘의 효과를 상시로 적용 받을 수 있다. 대신 강화하지 않으면 패에서 사용하지 않고 턴을 종료할 경우 소멸하므로 주의. 에너지 코스트가 높아서 상당히 신경 쓰이는 요소 중 하나다."
+  },
+  {
+    "key": "buffer",
+    "korName": "버퍼",
+    "engName": "Buffer",
+    "rarity": "rare",
+    "type": "power",
+    "normal": {
+      "effect": "다음 번에 체력을 잃는 것을 막아줍니다.",
+      "cost": "2"
+    },
+    "reinforced": {
+      "effect": "다음 2번 체력을 잃는 것을 막아줍니다.",
+      "cost": "2"
+    },
+    "desc": "없음."
+  },
+  {
+    "key": "biased-cognition",
+    "korName": "인지적 편향",
+    "engName": "Biased Cognition",
+    "rarity": "rare",
+    "type": "power",
+    "normal": {
+      "effect": "밀집을 4 얻습니다. 내 턴 시작 시 밀집을 1 잃습니다.",
+      "cost": "1"
+    },
+    "reinforced": {
+      "effect": "밀집을 5 얻습니다. 내 턴 시작 시 밀집을 1 잃습니다.",
+      "cost": "1"
+    },
+    "desc": "없음."
+  },
+  {
+    "key": "electrodynamics",
+    "korName": "전기 역학",
+    "engName": "Electrodynamics",
+    "rarity": "rare",
+    "type": "power",
+    "normal": {
+      "effect": "전기가 이제 모든 적을 대상으로 합니다. 전기를 2번 영창합니다.",
+      "cost": "2"
+    },
+    "reinforced": {
+      "effect": "전기가 이제 모든 적을 대상으로 합니다. 전기를 3번 영창합니다.",
+      "cost": "2"
+    },
+    "desc": "전기를 주로 쓰는 덱에서 상대하기 곤란했던 약한 몬스터가 여러 나오는 전투를 손쉽게 승리할 수 있게 해주는 좋은 파워 카드."
+  },
+  {
+    "key": "creative-ai",
+    "korName": "창의적인 인공지능",
+    "engName": "Creative AI",
+    "rarity": "rare",
+    "type": "power",
+    "normal": {
+      "effect": "매 턴 시작 시 무작위 파워 카드를 1장 얻습니다.",
+      "cost": "3"
+    },
+    "reinforced": {
+      "effect": "매 턴 시작 시 무작위 파워 카드를 1장 얻습니다.",
+      "cost": "2"
+    },
+    "desc": "파워 카드를 많이 사용하는 디펙트에게 큰 도움이 되는 카드. 무작위라서 필요없는 파워 카드가 나올 수도 있다는 것은 단점."
+  }
+]
